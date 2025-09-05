@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://2026-swe-internship-uk.vercel.app/sitemap.xml
