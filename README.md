@@ -1,12 +1,15 @@
 # 2026 Software Engineering Internship UK
 
-This repository is a comprehensive list of Software Engineering jobs for college students in search of **internships** and **placement** positions. The positions are updated daily. Feel free to create a pull request and contribute. 
+This repository is a comprehensive list of Software Engineering jobs for university students in the UK in search of **internships** and **placement** positions. The positions are updated daily. Star the repository for internship opportunities!
 
 ### Software Engineering Internships 2026
 
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
+| **PIMCO** | 2026 Summer Intern - Technology Analyst | 05 Sep 25 | <a href="https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/XMLNAME-2026-Summer-Intern---Technology-Analyst--Software-Engineering_R105661?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Point72** | 2026 Cubist Quant Academy – Developers | 05 Sep 25 | <a href="https://job-boards.greenhouse.io/point72/jobs/8153488002?gh_jid=8153488002&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **TPP** | Summer Internship - Software Developer | 04 Sep 25 | <a href="https://tpp-careers.com/roles/summer-internship-software-developer/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Microsoft** | Software Engineer Internship Opportunities | 04 Sep 25 | <a href="https://jobs.careers.microsoft.com/global/en/share/1871538/?utm_source=Trackr&utm_campaign=UK_Technology_2026&utm_medium=tracker"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Amazon** | 2026 Software Dev Engineer Intern | 03 Sep 25 | <a href="https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Ciena** | Software Engineering Intern | 03 Sep 25 | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern_R028780?source=Trackr&Location_Country=29247e57dbaf46fb855b224e03170bc7&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
