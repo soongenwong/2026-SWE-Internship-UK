@@ -315,7 +315,7 @@ export default function Home() {
         {/* Main Table */}
         <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xl overflow-hidden">
           <div className="px-6 py-4 bg-gray-50 dark:bg-gray-700 border-b dark:border-gray-600">
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-white">Available Internships</h2>
+            <h2 className="text-2xl font-bold text-gray-900 dark:text-white">Software Engineering Internships 2026</h2>
           </div>
           
           <div className="overflow-x-auto">
