@@ -1,0 +1,45 @@
+# 2026 Software Engineering Internship UK
+
+Thisrepository is a comprehensive list of Software Engineering jobs for college students in search of **internships** or **new graduate** positions. The positions are updated daily, and we prioritize jobs posted within the last 120 days.
+
+### Software Engineering Internships 2026
+
+<!-- TABLE_START -->
+| Company Name | Programme Name | Opening Date | Apply |
+|---|---|---|---|
+| **Microsoft** | Software Engineer Internship Opportunities | 04 Sep 25 | <a href="https://careers.microsoft.com/v2/global/en/search?q=Software%20Engineer%20Internship"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Amazon** | 2026 Software Dev Engineer Intern | 03 Sep 25 | <a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&base_query=Software%20Developer%20Engineer%20Intern"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Ciena** | Software Engineering Intern | 03 Sep 25 | <a href="https://careers.ciena.com/us/en/search-results?keywords=Software%20Engineer%20Intern"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Metrea** | Intern - Software Engineer | 03 Sep 25 | <a href="https://www.metrea.co.uk/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Mizuho** | IT Developer Summer Internship | 02 Sep 25 | <a href="https://mizuho-careers.com/job-search?keywords=IT%20Developer%20Internship"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **XTX Markets** | Software Engineering Intern - Summer 2026 | 02 Sep 25 | <a href="https://www.xtxmarkets.com/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Bank of America** | Quantitative Data Analytics, Summer 2026 Analyst | 01 Sep 25 | <a href="https://careers.bankofamerica.com/en-us/job-search?keywords=Quantitative%20Data%20Analytics%20Intern"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **LCP** | Technology - Summer Internship 2026 | 01 Sep 25 | <a href="https://www.lcp.com/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Macquarie Group** | 2026 Summer Internship Programme | 01 Sep 25 | <a href="https://careers.macquarie.com/cw/en/listing/?&keyword=Summer%20Internship"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Quadrature** | Quant Developer Internship | 01 Sep 25 | <a href="https://www.quadraturecapital.com/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Tower Research Capital** | Software Developer Intern (Summer 2026) | 01 Sep 25 | <a href="https://www.tower-research.com/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **UBS** | 2026 Summer Internship Program - GOTO Technology | 01 Sep 25 | <a href="https://jobs.ubs.com/TGnewUI/Search/Home/Home?partnerid=25008&siteid=5012#keywords=Summer%20Internship%20Technology"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **WTW** | 2026 Software Developer Internship | 01 Sep 25 | <a href="https://careers.wtwco.com/job-search?keywords=Software%20Developer%20Internship"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **J.P. Morgan** | 2026 Software Engineer Immersion Program - Summer Internship | 31 Aug 25 | <a href="https://jpmorgan.tal.net/vx/lang-en-GB/mobile-0/brand-10/user-2752473/xf-9d31d5b62e24/candidate/so/pm/1/pl/1/opp/16996-2026-Software-Engineer-Program-Summer-Internship-London/en-GB"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Morgan Stanley** | 2026 Technology Summer Analyst Program | 31 Aug 25 | <a href="https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/17297-2026-Technology-Summer-Analyst-Program-London/en-GB"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **IMC Trading** | Software Engineer Intern (2026) | 28 Aug 25 | <a href="https://careers.imc.com/us/en/search-results?keywords=Software%20Engineer%20Intern"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Marshall Wace** | Technology Intern - 2026 | 28 Aug 25 | <a href="https://www.mwam.com/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Aquatic Capital Management** | Software Engineer, Intern (Summer 2026) | 26 Aug 25 | <a href="https://www.aquaticcapital.com/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Optiver** | Software Engineer Internship (2026 Start) | 26 Aug 25 | <a href="https://optiver.com/working-at-optiver/career-opportunities/?filter-level=internship"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Susquehanna International Group** | Software Development Internship: Summer 2026 | 26 Aug 25 | <a href="https://careers.sig.com/job-search?keywords=Software%20Development%20Internship"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Talos** | Client Service Intern | 22 Aug 25 | <a href="https://www.talos.com/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Goldman Sachs** | 2026 Summer Analyst Programme | 15 Aug 25 | <a href="https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst-program.html"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Millennium Management** | Software Engineering Intern | 14 Aug 25 | <a href="https://careers.millennium.com/jobs/university"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **BNP Paribas** | 2026 Summer Internship - Technology | 12 Aug 25 | <a href="https://group.bnpparibas/en/careers/job-offers?keywords=Summer%20Internship%20Technology"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Citadel** | Software Engineer - Intern (Europe) | 12 Aug 25 | <a href="https://www.citadel.com/careers/open-positions/positions-for-students"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Balyasny Asset Management** | Software Engineering (Summer Internship) | 06 Aug 25 | <a href="https://www.bamfunds.com/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Cogna** | Software Engineer Intern (2026 Cohort) | 06 Aug 25 | <a href="https://www.cogna.ai/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Confluent** | 2026 Software Engineering Intern Opportunity | 06 Aug 25 | <a href="https://careers.confluent.io/jobs?keywords=Software%20Engineering%20Intern"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Jane Street** | Software Engineer Internship | 04 Aug 25 | <a href="https://www.janestreet.com/join-jane-street/position/6213528002/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **IMC Trading** | 2026 Summer Internship - Software Development | 02 Aug 25 | <a href="https://careers.imc.com/us/en/search-results?keywords=Summer%20Internship%20Software"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Jump Trading** | Campus Software Engineer (Intern) | 02 Aug 25 | <a href="https://www.jumptrading.com/careers/campus/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Palantir** | Software Engineer, Internship | 01 Aug 25 | <a href="https://jobs.lever.co/palantir?commitment=Internship"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Xantium** | Quantitative Developer Intern | 30 Jul 25 | <a href="https://www.xantium.com/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **The Trade Desk** | 2026 Summer Intern - Software Engineer | 29 Jul 25 | <a href="https://careers.thetradedesk.com/us/en/search-results?keywords=Summer%20Intern%20Software%20Engineer"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Castleton Commodities International** | Software Engineer Internship (Summer 2026) | 21 Jul 25 | <a href="https://www.cci.com/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **GSA Capital** | Software Developer - Intern | 15 Jul 25 | <a href="https://www.gsacapital.com/careers"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
