@@ -2,6 +2,16 @@
 
 This repository is a comprehensive list of Software Engineering jobs for university students in the UK in search of **internships** and **placement** positions. The positions are updated daily. Star the repository for internship opportunities!
 
+### FAANG+ Companies 🚀
+
+| Company Name | Programme Name | Opening Date | Apply |
+|---|---|---|---|
+| **Meta** | Security Engineer Intern | 05 Sep 25 | <a href="https://www.metacareers.com/jobs/770613715578381?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Microsoft** | Software Engineer Internship Opportunities | 04 Sep 25 | <a href="https://jobs.careers.microsoft.com/global/en/share/1871538/?utm_source=Trackr&utm_campaign=UK_Technology_2026&utm_medium=tracker"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Amazon** | 2026 Software Dev Engineer Intern | 03 Sep 25 | <a href="https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Palantir** | Software Engineer, Internship | 01 Aug 25 | <a href="https://jobs.lever.co/palantir?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lever-source=Trackr&commitment=Internship&location=London%2C+United+Kingdom"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Revolut** | Rev-celerator Internship Programme 2026 | 15 Jun 25 | <a href="https://www.revolut.com/careers/?text=rev-celerator+internship+programme&team=Engineering&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+
 ### Software Engineering Internships 2026
 
 <!-- TABLE_START -->
