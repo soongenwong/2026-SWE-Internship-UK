@@ -2,6 +2,12 @@ import Image from "next/image";
 
 const internships = [
   {
+    company: "Meta",
+    programme: "Security Engineer Intern",
+    openingDate: "05 Sep 25",
+    applyUrl: "https://www.metacareers.com/jobs/770613715578381?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
     company: "PIMCO",
     programme: "2026 Summer Intern - Technology Analyst",
     openingDate: "05 Sep 25",
