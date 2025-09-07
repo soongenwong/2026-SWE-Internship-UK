@@ -1,5 +1,69 @@
 import Image from "next/image";
 
+// FAANG+ Companies - Premium tech companies
+const faangPlusCompanies = [
+  {
+    company: "Meta",
+    programme: "Security Engineer Intern",
+    openingDate: "05 Sep 25",
+    applyUrl: "https://www.metacareers.com/jobs/770613715578381?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
+    company: "Microsoft",
+    programme: "Software Engineer Internship Opportunities",
+    openingDate: "04 Sep 25",
+    applyUrl: "https://jobs.careers.microsoft.com/global/en/share/1871538/?utm_source=Trackr&utm_campaign=UK_Technology_2026&utm_medium=tracker"
+  },
+  {
+    company: "Amazon",
+    programme: "2026 Software Dev Engineer Intern",
+    openingDate: "03 Sep 25",
+    applyUrl: "https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
+    company: "Palantir",
+    programme: "Software Engineer, Internship",
+    openingDate: "01 Aug 25",
+    applyUrl: "https://jobs.lever.co/palantir?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lever-source=Trackr&commitment=Internship&location=London%2C+United+Kingdom"
+  },
+  {
+    company: "Revolut",
+    programme: "Rev-celerator Internship Programme 2026",
+    openingDate: "15 Jun 25",
+    applyUrl: "https://www.revolut.com/careers/?text=rev-celerator+internship+programme&team=Engineering&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
+    company: "Citadel",
+    programme: "Software Engineer - Intern (Europe)",
+    openingDate: "12 Aug 25",
+    applyUrl: "https://www.citadel.com/careers/details/software-engineer-intern-europe/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
+    company: "Jane Street",
+    programme: "Software Engineer Internship",
+    openingDate: "04 Aug 25",
+    applyUrl: "https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=london&department=technology&duration=june-september&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
+    company: "Optiver",
+    programme: "Software Engineer Internship (2026 Start)",
+    openingDate: "26 Aug 25",
+    applyUrl: "https://optiver.com/working-at-optiver/career-opportunities/?numberposts=10&paged=1&department=technology&level=internship&office=amsterdam&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
+    company: "BNP Paribas",
+    programme: "2026 Summer Internship - Technology",
+    openingDate: "12 Aug 25",
+    applyUrl: "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=60554&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"
+  },
+  {
+    company: "Jump Trading",
+    programme: "Campus Software Engineer (Intern)",
+    openingDate: "02 Aug 25",
+    applyUrl: "https://www.jumptrading.com/careers/6946008/?gh_jid=6946008&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"
+  }
+];
+
 const internships = [
   {
     company: "Meta",
@@ -297,6 +361,9 @@ export default function Home() {
             <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-purple-100 text-purple-800 dark:bg-purple-800 dark:text-purple-100">
               💼 {internships.length} Opportunities
             </span>
+            <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-yellow-100 text-yellow-800 dark:bg-yellow-800 dark:text-yellow-100">
+              🚀 {faangPlusCompanies.length} FAANG+
+            </span>
           </div>
         </header>
 
@@ -315,6 +382,77 @@ export default function Home() {
           <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 text-center">
             <div className="text-3xl font-bold text-purple-600 dark:text-purple-400 mb-2">2026</div>
             <div className="text-gray-600 dark:text-gray-300">Summer Programs</div>
+          </div>
+        </div>
+
+        {/* FAANG+ Companies Section */}
+        <div className="bg-gradient-to-r from-yellow-50 to-orange-50 dark:from-gray-800 dark:to-gray-700 rounded-lg shadow-xl overflow-hidden mb-12 border-2 border-yellow-200 dark:border-yellow-600">
+          <div className="px-6 py-4 bg-gradient-to-r from-yellow-100 to-orange-100 dark:from-gray-700 dark:to-gray-600 border-b dark:border-gray-600">
+            <h2 className="text-2xl font-bold text-gray-900 dark:text-white flex items-center gap-2">
+              🚀 FAANG+ Companies
+              <span className="text-sm font-normal text-gray-600 dark:text-gray-300">
+                ({faangPlusCompanies.length} Premium Opportunities)
+              </span>
+            </h2>
+            <p className="text-sm text-gray-600 dark:text-gray-300 mt-1">
+              Top-tier technology companies and trading firms
+            </p>
+          </div>
+          
+          <div className="overflow-x-auto">
+            <table className="min-w-full divide-y divide-gray-200 dark:divide-gray-600">
+              <thead className="bg-yellow-50 dark:bg-gray-700">
+                <tr>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
+                    Company Name
+                  </th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
+                    Programme Name
+                  </th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
+                    Opening Date
+                  </th>
+                  <th className="px-6 py-3 text-center text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
+                    Apply
+                  </th>
+                </tr>
+              </thead>
+              <tbody className="bg-white dark:bg-gray-800 divide-y divide-gray-200 dark:divide-gray-600">
+                {faangPlusCompanies.map((internship, index) => (
+                  <tr 
+                    key={index} 
+                    className="hover:bg-yellow-50 dark:hover:bg-gray-700 transition-colors duration-200"
+                  >
+                    <td className="px-6 py-4 whitespace-nowrap">
+                      <div className="font-bold text-gray-900 dark:text-white flex items-center gap-2">
+                        {internship.company}
+                        <span className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-yellow-100 text-yellow-800 dark:bg-yellow-800 dark:text-yellow-100">
+                          ⭐
+                        </span>
+                      </div>
+                    </td>
+                    <td className="px-6 py-4">
+                      <div className="text-sm text-gray-900 dark:text-white font-medium">
+                        {internship.programme}
+                      </div>
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-300">
+                      {internship.openingDate}
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-center">
+                      <a
+                        href={internship.applyUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-orange-500 hover:from-yellow-600 hover:to-orange-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500 transition-all duration-200 transform hover:scale-105 shadow-lg"
+                      >
+                        Apply Now ⭐
+                      </a>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           </div>
         </div>
 
