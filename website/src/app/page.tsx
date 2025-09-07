@@ -367,12 +367,18 @@ export default function Home() {
           </div>
           
           {/* Resources Link */}
-          <div className="mt-6">
+          <div className="mt-6 flex justify-center gap-4">
+            <Link 
+              href="/application-tips"
+              className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold rounded-lg hover:from-purple-700 hover:to-pink-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+            >
+              🚀 Application Tips
+            </Link>
             <Link 
               href="/resources"
               className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg hover:from-blue-700 hover:to-purple-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
             >
-              📚 Interview Resources & Tips
+              📚 Interview Resources
             </Link>
           </div>
         </header>

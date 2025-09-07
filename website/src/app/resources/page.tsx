@@ -44,12 +44,21 @@ export default function Resources() {
             <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">Technical Interview</h3>
             <p className="text-gray-600 dark:text-gray-300">Prepare for coding interviews</p>
           </a>
+          <a href="#system-design" className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow duration-300 border-l-4 border-indigo-500">
+            <div className="text-3xl mb-3">�️</div>
+            <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">System Design</h3>
+            <p className="text-gray-600 dark:text-gray-300">Design scalable systems</p>
+          </a>
           <a href="#getting-offer" className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow duration-300 border-l-4 border-yellow-500">
             <div className="text-3xl mb-3">🎯</div>
             <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">Getting the Offer</h3>
             <p className="text-gray-600 dark:text-gray-300">Seal the deal and negotiate</p>
           </a>
-          <div className="bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg shadow-lg p-6 text-white flex items-center justify-center">
+        </div>
+
+        {/* Success Journey Card */}
+        <div className="flex justify-center mb-12">
+          <div className="bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg shadow-lg p-6 text-white flex items-center justify-center max-w-md">
             <div className="text-center">
               <div className="text-3xl mb-3">🚀</div>
               <h3 className="text-xl font-bold mb-2">Your Success Journey</h3>
@@ -337,6 +346,139 @@ export default function Resources() {
           </div>
         </section>
 
+        {/* System Design Section */}
+        <section id="system-design" className="mb-16">
+          <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xl overflow-hidden">
+            <div className="px-8 py-6 bg-indigo-50 dark:bg-gray-700 border-b dark:border-gray-600">
+              <h2 className="text-3xl font-bold text-gray-900 dark:text-white flex items-center gap-3">
+                🏗️ System Design Interview
+              </h2>
+            </div>
+            <div className="p-8">
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <div>
+                  <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">🎯 When to Expect System Design</h3>
+                  <ul className="space-y-3 text-gray-700 dark:text-gray-300">
+                    <li className="flex items-start gap-2">
+                      <span className="text-indigo-500 mt-1">•</span>
+                      <span><strong>Senior Internships:</strong> Some companies include basic system design for senior students</span>
+                    </li>
+                    <li className="flex items-start gap-2">
+                      <span className="text-indigo-500 mt-1">•</span>
+                      <span><strong>Return Offers:</strong> Converting internship to full-time may include system design</span>
+                    </li>
+                    <li className="flex items-start gap-2">
+                      <span className="text-indigo-500 mt-1">•</span>
+                      <span><strong>FAANG+:</strong> Meta, Google, Amazon sometimes ask simplified system design</span>
+                    </li>
+                    <li className="flex items-start gap-2">
+                      <span className="text-indigo-500 mt-1">•</span>
+                      <span><strong>Trading Firms:</strong> Jane Street, Citadel may ask architecture questions</span>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">⏱️ Interview Format (45 mins)</h3>
+                  <div className="space-y-4">
+                    <div className="border-l-4 border-indigo-400 pl-4">
+                      <div className="font-semibold text-indigo-600 dark:text-indigo-400">1. Requirements Gathering (10 mins)</div>
+                      <div className="text-gray-600 dark:text-gray-400 text-sm">Ask clarifying questions, define scope</div>
+                    </div>
+                    <div className="border-l-4 border-blue-400 pl-4">
+                      <div className="font-semibold text-blue-600 dark:text-blue-400">2. High-Level Design (15 mins)</div>
+                      <div className="text-gray-600 dark:text-gray-400 text-sm">Draw main components and data flow</div>
+                    </div>
+                    <div className="border-l-4 border-purple-400 pl-4">
+                      <div className="font-semibold text-purple-600 dark:text-purple-400">3. Deep Dive (15 mins)</div>
+                      <div className="text-gray-600 dark:text-gray-400 text-sm">Focus on specific components, databases</div>
+                    </div>
+                    <div className="border-l-4 border-green-400 pl-4">
+                      <div className="font-semibold text-green-600 dark:text-green-400">4. Scale & Optimize (5 mins)</div>
+                      <div className="text-gray-600 dark:text-gray-400 text-sm">Discuss bottlenecks and solutions</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div className="mt-8">
+                <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">🛠️ Common Intern-Level Questions</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  <div className="space-y-3">
+                    <h4 className="font-semibold text-gray-900 dark:text-white">Basic Systems:</h4>
+                    <div className="space-y-2 text-gray-700 dark:text-gray-300">
+                      <div className="bg-gray-50 dark:bg-gray-700 p-3 rounded">
+                        <strong>URL Shortener (like bit.ly)</strong>
+                        <p className="text-sm mt-1">Perfect starter question - covers databases, caching, APIs</p>
+                      </div>
+                      <div className="bg-gray-50 dark:bg-gray-700 p-3 rounded">
+                        <strong>Chat Application</strong>
+                        <p className="text-sm mt-1">Real-time messaging, WebSockets, message storage</p>
+                      </div>
+                      <div className="bg-gray-50 dark:bg-gray-700 p-3 rounded">
+                        <strong>Photo Sharing App</strong>
+                        <p className="text-sm mt-1">File storage, CDN, basic social features</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="space-y-3">
+                    <h4 className="font-semibold text-gray-900 dark:text-white">Key Concepts to Know:</h4>
+                    <div className="space-y-2 text-gray-700 dark:text-gray-300">
+                      <div className="bg-indigo-50 dark:bg-indigo-900/20 p-3 rounded border-l-4 border-indigo-400">
+                        <strong>Load Balancing</strong>
+                        <p className="text-sm mt-1">Distribute traffic across servers</p>
+                      </div>
+                      <div className="bg-blue-50 dark:bg-blue-900/20 p-3 rounded border-l-4 border-blue-400">
+                        <strong>Caching</strong>
+                        <p className="text-sm mt-1">Redis, Memcached, CDN basics</p>
+                      </div>
+                      <div className="bg-purple-50 dark:bg-purple-900/20 p-3 rounded border-l-4 border-purple-400">
+                        <strong>Databases</strong>
+                        <p className="text-sm mt-1">SQL vs NoSQL, when to use each</p>
+                      </div>
+                      <div className="bg-green-50 dark:bg-green-900/20 p-3 rounded border-l-4 border-green-400">
+                        <strong>APIs & Microservices</strong>
+                        <p className="text-sm mt-1">REST, GraphQL, service communication</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div className="mt-8">
+                <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">📚 Learning Resources</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                  <a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noopener noreferrer" 
+                     className="bg-indigo-50 dark:bg-indigo-900/20 border border-indigo-200 dark:border-indigo-800 rounded-lg p-4 hover:shadow-md transition-shadow">
+                    <div className="font-semibold text-indigo-800 dark:text-indigo-200">System Design Primer</div>
+                    <div className="text-sm text-indigo-700 dark:text-indigo-300">GitHub - Comprehensive guide</div>
+                  </a>
+                  <a href="https://www.youtube.com/@gkcs" target="_blank" rel="noopener noreferrer"
+                     className="bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-lg p-4 hover:shadow-md transition-shadow">
+                    <div className="font-semibold text-red-800 dark:text-red-200">Gaurav Sen</div>
+                    <div className="text-sm text-red-700 dark:text-red-300">YouTube - System design concepts</div>
+                  </a>
+                  <a href="https://www.educative.io/courses/grokking-the-system-design-interview" target="_blank" rel="noopener noreferrer"
+                     className="bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-lg p-4 hover:shadow-md transition-shadow">
+                    <div className="font-semibold text-blue-800 dark:text-blue-200">Grokking System Design</div>
+                    <div className="text-sm text-blue-700 dark:text-blue-300">Educative - Interactive course</div>
+                  </a>
+                </div>
+              </div>
+              
+              <div className="mt-8 bg-indigo-50 dark:bg-indigo-900/20 border-l-4 border-indigo-500 p-6 rounded-lg">
+                <h4 className="font-semibold text-indigo-900 dark:text-indigo-100 mb-2">💡 Intern-Level Strategy</h4>
+                <div className="text-indigo-800 dark:text-indigo-200 space-y-2">
+                  <div><strong>Keep it Simple:</strong> Focus on basic architecture, don&apos;t over-engineer</div>
+                  <div><strong>Ask Questions:</strong> &quot;How many users?&quot; &quot;What&apos;s the main use case?&quot;</div>
+                  <div><strong>Think Aloud:</strong> Explain your reasoning as you design</div>
+                  <div><strong>Start High-Level:</strong> Draw boxes first, then dive into details</div>
+                  <div><strong>Be Honest:</strong> If you don&apos;t know something, say so and ask for guidance</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* Getting the Offer Section */}
         <section id="getting-offer" className="mb-16">
           <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xl overflow-hidden">
@@ -453,18 +595,30 @@ export default function Resources() {
             <p className="text-gray-700 dark:text-gray-300 mb-6">
               You&apos;ve got the tools and knowledge. Now go land that dream internship!
             </p>
-            <Link 
-              href="/" 
-              className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
-            >
-              Browse Internships →
-            </Link>
+            <div className="flex justify-center gap-4">
+              <Link 
+                href="/application-tips" 
+                className="inline-flex items-center px-6 py-3 bg-purple-600 text-white font-semibold rounded-lg hover:bg-purple-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+              >
+                🚀 Application Tips
+              </Link>
+              <Link 
+                href="/" 
+                className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+              >
+                Browse Internships →
+              </Link>
+            </div>
           </div>
           
           <p className="mb-4">
             💡 Resources compiled from industry experts and successful interns
           </p>
           <div className="flex justify-center gap-4 flex-wrap">
+            <Link href="/application-tips" className="text-purple-600 hover:text-purple-800 dark:text-purple-400 dark:hover:text-purple-300 font-medium">
+              Application Tips
+            </Link>
+            <span className="text-gray-400">•</span>
             <Link href="/" className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium">
               Back to Internships
             </Link>
