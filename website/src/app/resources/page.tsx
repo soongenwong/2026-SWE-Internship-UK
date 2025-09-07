@@ -595,16 +595,22 @@ export default function Resources() {
             <p className="text-gray-700 dark:text-gray-300 mb-6">
               You&apos;ve got the tools and knowledge. Now go land that dream internship!
             </p>
-            <div className="flex justify-center gap-4">
+            <div className="flex justify-center gap-4 flex-wrap">
               <Link 
                 href="/application-tips" 
-                className="inline-flex items-center px-6 py-3 bg-purple-600 text-white font-semibold rounded-lg hover:bg-purple-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+                className="inline-flex items-center px-5 py-3 bg-purple-600 text-white font-semibold rounded-lg hover:bg-purple-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
               >
                 🚀 Application Tips
               </Link>
               <Link 
+                href="/leetcode-patterns" 
+                className="inline-flex items-center px-5 py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+              >
+                💻 LeetCode Patterns
+              </Link>
+              <Link 
                 href="/" 
-                className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+                className="inline-flex items-center px-5 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
               >
                 Browse Internships →
               </Link>
@@ -617,6 +623,10 @@ export default function Resources() {
           <div className="flex justify-center gap-4 flex-wrap">
             <Link href="/application-tips" className="text-purple-600 hover:text-purple-800 dark:text-purple-400 dark:hover:text-purple-300 font-medium">
               Application Tips
+            </Link>
+            <span className="text-gray-400">•</span>
+            <Link href="/leetcode-patterns" className="text-green-600 hover:text-green-800 dark:text-green-400 dark:hover:text-green-300 font-medium">
+              LeetCode Patterns
             </Link>
             <span className="text-gray-400">•</span>
             <Link href="/" className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium">

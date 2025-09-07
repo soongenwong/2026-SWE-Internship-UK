@@ -627,7 +627,13 @@ export default function ApplicationTips() {
             <p className="text-gray-700 dark:text-gray-300 mb-6">
               You now have the tools to craft compelling applications that stand out from the crowd!
             </p>
-            <div className="flex justify-center gap-4">
+            <div className="flex justify-center gap-4 flex-wrap">
+              <Link 
+                href="/leetcode-patterns" 
+                className="inline-flex items-center px-6 py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+              >
+                💻 LeetCode Patterns
+              </Link>
               <Link 
                 href="/" 
                 className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
@@ -649,6 +655,10 @@ export default function ApplicationTips() {
           <div className="flex justify-center gap-4 flex-wrap">
             <Link href="/" className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium">
               Back to Internships
+            </Link>
+            <span className="text-gray-400">•</span>
+            <Link href="/leetcode-patterns" className="text-green-600 hover:text-green-800 dark:text-green-400 dark:hover:text-green-300 font-medium">
+              LeetCode Patterns
             </Link>
             <span className="text-gray-400">•</span>
             <Link href="/resources" className="text-green-600 hover:text-green-800 dark:text-green-400 dark:hover:text-green-300 font-medium">
