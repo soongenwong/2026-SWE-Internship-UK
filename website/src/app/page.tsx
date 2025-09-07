@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 // FAANG+ Companies - Premium tech companies
 const faangPlusCompanies = [
@@ -364,6 +365,16 @@ export default function Home() {
             <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-yellow-100 text-yellow-800 dark:bg-yellow-800 dark:text-yellow-100">
               🚀 {faangPlusCompanies.length} FAANG+
             </span>
+          </div>
+          
+          {/* Resources Link */}
+          <div className="mt-6">
+            <Link 
+              href="/resources"
+              className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg hover:from-blue-700 hover:to-purple-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+            >
+              📚 Interview Resources & Tips
+            </Link>
           </div>
         </header>
 
