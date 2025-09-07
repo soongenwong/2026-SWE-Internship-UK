@@ -18,7 +18,7 @@ export default function Resources() {
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
             Your comprehensive guide to landing that dream software engineering internship. 
-            From CV optimization to offer negotiation, we've got you covered.
+            From CV optimization to offer negotiation, we&apos;ve got you covered.
           </p>
         </header>
 
@@ -85,7 +85,7 @@ export default function Resources() {
                     </li>
                     <li className="flex items-start gap-2">
                       <span className="text-green-500 mt-1">•</span>
-                      <span><strong>Quantify Impact:</strong> "Improved performance by 40%" vs "Optimized code"</span>
+                      <span><strong>Quantify Impact:</strong> &quot;Improved performance by 40%&quot; vs &quot;Optimized code&quot;</span>
                     </li>
                     <li className="flex items-start gap-2">
                       <span className="text-green-500 mt-1">•</span>
@@ -161,7 +161,7 @@ export default function Resources() {
                     <li>• Start with brute force solution</li>
                     <li>• Test with edge cases</li>
                     <li>• Comment your code</li>
-                    <li>• Don't panic if stuck</li>
+                    <li>• Don&apos;t panic if stuck</li>
                   </ul>
                 </div>
               </div>
@@ -234,15 +234,15 @@ export default function Resources() {
                   <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">💬 Common Questions</h3>
                   <div className="space-y-3 text-gray-700 dark:text-gray-300">
                     <div className="bg-gray-50 dark:bg-gray-700 p-3 rounded">
-                      <strong>"Tell me about yourself"</strong>
+                      <strong>&quot;Tell me about yourself&quot;</strong>
                       <p className="text-sm mt-1">Elevator pitch: Background, relevant experience, why this role</p>
                     </div>
                     <div className="bg-gray-50 dark:bg-gray-700 p-3 rounded">
-                      <strong>"Why this company?"</strong>
+                      <strong>&quot;Why this company?&quot;</strong>
                       <p className="text-sm mt-1">Research company values, recent news, specific reasons</p>
                     </div>
                     <div className="bg-gray-50 dark:bg-gray-700 p-3 rounded">
-                      <strong>"Describe a challenge you faced"</strong>
+                      <strong>&quot;Describe a challenge you faced&quot;</strong>
                       <p className="text-sm mt-1">Use STAR method: Situation, Task, Action, Result</p>
                     </div>
                   </div>
@@ -451,7 +451,7 @@ export default function Resources() {
           <div className="bg-gradient-to-r from-blue-50 to-purple-50 dark:from-gray-800 dark:to-gray-700 rounded-lg p-8 mb-8">
             <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">🎉 Ready to Apply?</h3>
             <p className="text-gray-700 dark:text-gray-300 mb-6">
-              You've got the tools and knowledge. Now go land that dream internship!
+              You&apos;ve got the tools and knowledge. Now go land that dream internship!
             </p>
             <Link 
               href="/" 
