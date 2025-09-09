@@ -33,6 +33,12 @@ const faangPlusCompanies = [
     applyUrl: "https://www.revolut.com/careers/?text=rev-celerator+internship+programme&team=Engineering&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
+    company: "Figma",
+    programme: "Software Engineer Intern",
+    openingDate: "09 Sep 25",
+    applyUrl: "https://job-boards.greenhouse.io/figma/jobs/5621177004?gh_jid=5621177004&gh_src=28109e334us&source=LinkedIn"
+  },
+  {
     company: "Citadel",
     programme: "Software Engineer - Intern (Europe)",
     openingDate: "12 Aug 25",
@@ -65,6 +71,12 @@ const faangPlusCompanies = [
 ];
 
 const internships = [
+  {
+    company: "Figma",
+    programme: "Software Engineer Intern",
+    openingDate: "09 Sep 25",
+    applyUrl: "https://job-boards.greenhouse.io/figma/jobs/5621177004?gh_jid=5621177004&gh_src=28109e334us&source=LinkedIn"
+  },
   {
     company: "Meta",
     programme: "Security Engineer Intern",
