@@ -23,6 +23,7 @@ This repository is a comprehensive list of Software Engineering jobs for univers
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
+| **Lunar Energy** | Software Engineer Intern | 09 Sep 25 | <a href="https://job-boards.greenhouse.io/lunarenergy/jobs/5642163004?gh_src=ytoyiqa84us"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Figma** | Software Engineer Intern | 09 Sep 25 | <a href="https://job-boards.greenhouse.io/figma/jobs/5621177004?gh_jid=5621177004&gh_src=28109e334us&source=LinkedIn"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Meta** | Security Engineer Intern | 05 Sep 25 | <a href="https://www.metacareers.com/jobs/770613715578381?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **PIMCO** | 2026 Summer Intern - Technology Analyst | 05 Sep 25 | <a href="https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/XMLNAME-2026-Summer-Intern---Technology-Analyst--Software-Engineering_R105661?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |

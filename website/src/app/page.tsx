@@ -72,6 +72,12 @@ const faangPlusCompanies = [
 
 const internships = [
   {
+    company: "Lunar Energy",
+    programme: "Software Engineer Intern",
+    openingDate: "09 Sep 25",
+    applyUrl: "https://job-boards.greenhouse.io/lunarenergy/jobs/5642163004?gh_src=ytoyiqa84us"
+  },
+  {
     company: "Figma",
     programme: "Software Engineer Intern",
     openingDate: "09 Sep 25",
