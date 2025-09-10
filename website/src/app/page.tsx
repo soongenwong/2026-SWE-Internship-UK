@@ -72,6 +72,12 @@ const faangPlusCompanies = [
 
 const internships = [
   {
+    company: "G-Research",
+    programme: "Software Engineering Intern",
+    openingDate: "10 Sep 25",
+    applyUrl: "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Internship_R3264/apply?source=linkedin"
+  },
+  {
     company: "Lunar Energy",
     programme: "Software Engineer Intern",
     openingDate: "09 Sep 25",
