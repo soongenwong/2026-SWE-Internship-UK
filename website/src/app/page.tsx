@@ -72,6 +72,18 @@ const faangPlusCompanies = [
 
 const internships = [
   {
+    company: "Cohere",
+    programme: "Software Engineer Intern",
+    openingDate: "11 Sep 25",
+    applyUrl: "https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b/application?utm_source=jKNDxYPz51"
+  },
+  {
+    company: "Boston Consulting Group",
+    programme: "BCG X AI Engineer Internship",
+    openingDate: "11 Sep 25",
+    applyUrl: "https://careers.bcg.com/global/en/job/BCG1US52453EXTERNALENGLOBAL/BCG-X-AI-Engineer-Internship-United-Kingdom?Source+=LinkedIn+Job+Board"
+  },
+  {
     company: "G-Research",
     programme: "Software Engineering Intern",
     openingDate: "10 Sep 25",

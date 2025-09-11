@@ -23,6 +23,8 @@ This repository is a comprehensive list of Software Engineering jobs for univers
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
+| **Cohere** | Software Engineer Intern | 11 Sep 25 | <a href="https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b/application?utm_source=jKNDxYPz51"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Boston Consulting Group** | BCG X AI Engineer Internship | 11 Sep 25 | <a href="https://careers.bcg.com/global/en/job/BCG1US52453EXTERNALENGLOBAL/BCG-X-AI-Engineer-Internship-United-Kingdom?Source+=LinkedIn+Job+Board"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **G-Research** | Software Engineering Intern | 10 Sep 25 | <a href="https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Internship_R3264/apply?source=linkedin"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Lunar Energy** | Software Engineer Intern | 09 Sep 25 | <a href="https://job-boards.greenhouse.io/lunarenergy/jobs/5642163004?gh_src=ytoyiqa84us"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Figma** | Software Engineer Intern | 09 Sep 25 | <a href="https://job-boards.greenhouse.io/figma/jobs/5621177004?gh_jid=5621177004&gh_src=28109e334us&source=LinkedIn"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
