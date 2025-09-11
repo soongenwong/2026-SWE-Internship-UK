@@ -11,6 +11,7 @@ This repository is a comprehensive list of Software Engineering jobs for univers
 | **Amazon** | 2026 Software Dev Engineer Intern | 03 Sep 25 | <a href="https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Palantir** | Software Engineer, Internship | 01 Aug 25 | <a href="https://jobs.lever.co/palantir?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lever-source=Trackr&commitment=Internship&location=London%2C+United+Kingdom"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **TikTok** | Data Scientist Intern | 11 Sep 25 | <a href="https://lifeattiktok.com/search/7535469099951147272?spread=5MWH5CQ"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Perplexity AI** | UK Internship Program | 11 Sep 25 | <a href="https://job-boards.greenhouse.io/perplexityai/jobs/4735785007"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Revolut** | Rev-celerator Internship Programme 2026 | 15 Jun 25 | <a href="https://www.revolut.com/careers/?text=rev-celerator+internship+programme&team=Engineering&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Figma** | Software Engineer Intern | 09 Sep 25 | <a href="https://job-boards.greenhouse.io/figma/jobs/5621177004?gh_jid=5621177004&gh_src=28109e334us&source=LinkedIn"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Citadel** | Software Engineer - Intern (Europe) | 12 Aug 25 | <a href="https://www.citadel.com/careers/details/software-engineer-intern-europe/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
@@ -24,6 +25,7 @@ This repository is a comprehensive list of Software Engineering jobs for univers
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
+| **Perplexity AI** | UK Internship Program | 11 Sep 25 | <a href="https://job-boards.greenhouse.io/perplexityai/jobs/4735785007"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **TikTok** | Data Scientist Intern | 11 Sep 25 | <a href="https://lifeattiktok.com/search/7535469099951147272?spread=5MWH5CQ"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Cohere** | Software Engineer Intern | 11 Sep 25 | <a href="https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b/application?utm_source=jKNDxYPz51"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Boston Consulting Group** | BCG X AI Engineer Internship | 11 Sep 25 | <a href="https://careers.bcg.com/global/en/job/BCG1US52453EXTERNALENGLOBAL/BCG-X-AI-Engineer-Internship-United-Kingdom?Source+=LinkedIn+Job+Board"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |

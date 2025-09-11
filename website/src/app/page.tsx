@@ -33,6 +33,12 @@ const faangPlusCompanies = [
     applyUrl: "https://lifeattiktok.com/search/7535469099951147272?spread=5MWH5CQ"
   },
   {
+    company: "Perplexity AI",
+    programme: "UK Internship Program",
+    openingDate: "11 Sep 25",
+    applyUrl: "https://job-boards.greenhouse.io/perplexityai/jobs/4735785007"
+  },
+  {
     company: "Revolut",
     programme: "Rev-celerator Internship Programme 2026",
     openingDate: "15 Jun 25",
@@ -77,6 +83,12 @@ const faangPlusCompanies = [
 ];
 
 const internships = [
+  {
+    company: "Perplexity AI",
+    programme: "UK Internship Program",
+    openingDate: "11 Sep 25",
+    applyUrl: "https://job-boards.greenhouse.io/perplexityai/jobs/4735785007"
+  },
   {
     company: "TikTok",
     programme: "Data Scientist Intern",
