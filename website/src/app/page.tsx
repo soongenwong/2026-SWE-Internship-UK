@@ -27,6 +27,12 @@ const faangPlusCompanies = [
     applyUrl: "https://jobs.lever.co/palantir?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lever-source=Trackr&commitment=Internship&location=London%2C+United+Kingdom"
   },
   {
+    company: "TikTok",
+    programme: "Data Scientist Intern",
+    openingDate: "11 Sep 25",
+    applyUrl: "https://lifeattiktok.com/search/7535469099951147272?spread=5MWH5CQ"
+  },
+  {
     company: "Revolut",
     programme: "Rev-celerator Internship Programme 2026",
     openingDate: "15 Jun 25",
@@ -71,6 +77,12 @@ const faangPlusCompanies = [
 ];
 
 const internships = [
+  {
+    company: "TikTok",
+    programme: "Data Scientist Intern",
+    openingDate: "11 Sep 25",
+    applyUrl: "https://lifeattiktok.com/search/7535469099951147272?spread=5MWH5CQ"
+  },
   {
     company: "Cohere",
     programme: "Software Engineer Intern",
