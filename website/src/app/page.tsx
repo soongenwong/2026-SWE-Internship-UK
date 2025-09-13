@@ -84,6 +84,12 @@ const faangPlusCompanies = [
 
 const internships = [
   {
+    company: "LSEG",
+    programme: "Engineering Summer Internship Programme (2026)",
+    openingDate: "13 Sep 25",
+    applyUrl: "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme--2026-_R0111538-1?source=Linkedin"
+  },
+  {
     company: "Perplexity AI",
     programme: "UK Internship Program",
     openingDate: "11 Sep 25",

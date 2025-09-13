@@ -25,6 +25,7 @@ This repository is a comprehensive list of Software Engineering jobs for univers
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
+| **LSEG** | Engineering Summer Internship Programme (2026) | 13 Sep 25 | <a href="https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme--2026-_R0111538-1?source=Linkedin"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Perplexity AI** | UK Internship Program | 11 Sep 25 | <a href="https://job-boards.greenhouse.io/perplexityai/jobs/4735785007"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **TikTok** | Data Scientist Intern | 11 Sep 25 | <a href="https://lifeattiktok.com/search/7535469099951147272?spread=5MWH5CQ"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Cohere** | Software Engineer Intern | 11 Sep 25 | <a href="https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b/application?utm_source=jKNDxYPz51"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
