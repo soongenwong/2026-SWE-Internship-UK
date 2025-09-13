@@ -25,6 +25,7 @@ This repository is a comprehensive list of Software Engineering jobs for univers
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
+| **Netcraft** | Software Engineer - Student Application | 13 Sep 25 | <a href="https://www.adzuna.co.uk/jobs/details/5396111820?v=740681173CA4CFE58E70BAB7F216482DFE12FDA5&frd=7bd788888b7daa30da93a019eafb9033&ccd=3e94757dad38353f6cf5afa7d575ccfd&r=20220673&utm_source=linkedin3&utm_medium=organic&chnlid=1936&title=Software%20Engineer%20-%20Student%20Application&a=e"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **LSEG** | Engineering Summer Internship Programme (2026) | 13 Sep 25 | <a href="https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme--2026-_R0111538-1?source=Linkedin"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Perplexity AI** | UK Internship Program | 11 Sep 25 | <a href="https://job-boards.greenhouse.io/perplexityai/jobs/4735785007"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **TikTok** | Data Scientist Intern | 11 Sep 25 | <a href="https://lifeattiktok.com/search/7535469099951147272?spread=5MWH5CQ"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
