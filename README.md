@@ -2,6 +2,29 @@
 
 This repository is a comprehensive list of Software Engineering jobs for university students in the UK in search of **internships** and **placement** positions. The positions are updated daily. Star the repository for internship opportunities!
 
+**🚀 Visit our new website! [2026-swe-internship-uk.vercel.app](https://2026-swe-internship-uk.vercel.app/) 🚀**
+
+Explore internship opportunities with a better UI and access exclusive resources:
+*   **Application Tips**: Strengthen your applications to land more interviews.
+*   **LeetCode Patterns**: Master essential patterns for technical interviews.
+*   **Interview Resources**: Prepare for every stage of the hiring process.
+
+
+### How to Contribute
+
+We welcome contributions! If you find a new internship or have a suggestion, please follow these steps:
+
+1.  **Fork the repository.**
+2.  **Create a new branch:** `git checkout -b your-feature-name`
+3.  **Add your changes:**
+    *   For new internships, add a new row to the table in the `README.md` file.
+    *   For other suggestions, open an issue to discuss your ideas.
+4.  **Commit your changes:** `git commit -m 'Add new internship: [Company Name]'`
+5.  **Push to the branch:** `git push origin your-feature-name`
+6.  **Create a pull request.**
+
+We appreciate your help in keeping this list up-to-date!
+
 ### FAANG+ Companies 🚀
 
 | Company Name | Programme Name | Opening Date | Apply |
