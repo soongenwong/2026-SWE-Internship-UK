@@ -1,6 +1,6 @@
 # 2026 Software Engineering Internship UK
 
-This repository is a comprehensive list of Software Engineering jobs for university students in the UK in search of **internships** and **placement** positions. The positions are updated daily. Star the repository for internship opportunities!
+This is a list of Software Engineering **Internships** and **Placements** for university students in the UK. Positions are updated daily, Star the repository for daily updates. 
 
 **🚀 Visit our new website! [2026-swe-internship-uk.vercel.app](https://2026-swe-internship-uk.vercel.app/) 🚀**
 
