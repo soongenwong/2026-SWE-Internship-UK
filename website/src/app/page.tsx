@@ -3,16 +3,16 @@ import Link from "next/link";
 // FAANG+ Companies - Premium tech companies
 const faangPlusCompanies = [
   {
-    company: "Meta",
-    programme: "Security Engineer Intern",
-    openingDate: "05 Sep 25",
-    applyUrl: "https://www.metacareers.com/jobs/770613715578381?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
-  },
-  {
     company: "Microsoft",
     programme: "Software Engineer Internship Opportunities",
     openingDate: "04 Sep 25",
     applyUrl: "https://jobs.careers.microsoft.com/global/en/share/1871538/?utm_source=Trackr&utm_campaign=UK_Technology_2026&utm_medium=tracker"
+  },
+  {
+    company: "Meta",
+    programme: "Security Engineer Intern",
+    openingDate: "05 Sep 25",
+    applyUrl: "https://www.metacareers.com/jobs/770613715578381?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Amazon",
@@ -83,6 +83,36 @@ const faangPlusCompanies = [
 ];
 
 const internships = [
+  {
+    company: "Man Group",
+    programme: "Summer Intern Quant Talent Programme",
+    openingDate: "16 Sep 25",
+    applyUrl: "https://www.efinancialcareers.co.uk/jobs-United_Kingdom-London-2026_AHL_Summer_Intern_Quant_Talent_Programme.id23188457?utm_campaign=JS_UK_ALLJOBS&utm_medium=PD_AG_LINKEDIN&utm_source=EMEA_UK_ENG"
+  },
+  {
+    company: "Redis",
+    programme: "AI Research Internship",
+    openingDate: "16 Sep 25",
+    applyUrl: "https://job-boards.greenhouse.io/redis/jobs/5547597004?gh_src=99b6bb294us"
+  },
+  {
+    company: "BAE Systems",
+    programme: "Summer Internship - Software Engineer",
+    openingDate: "16 Sep 25",
+    applyUrl: "https://jobsearch.baesystems.com/job/summer-internship-software-engineer-122024?src=JB-13240"
+  },
+  {
+    company: "ByteDance",
+    programme: "Solution Architect Project Intern (BytePlus)",
+    openingDate: "16 Sep 25",
+    applyUrl: "https://joinbytedance.com/search/7543555717114906898"
+  },
+  {
+    company: "Incident.io",
+    programme: "Product Engineer Summer Internship",
+    openingDate: "16 Sep 25",
+    applyUrl: "https://incident.io/careers?ashby_jid=3abca7c8-3660-4f08-8bdf-a00d0a8dd40b&mPMlzoZzj4=LinkedIn"
+  },
   {
     company: "Netcraft",
     programme: "Software Engineer - Student Application",

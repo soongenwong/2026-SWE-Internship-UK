@@ -48,6 +48,11 @@ We appreciate your help in keeping this list up-to-date!
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
+| **Man Group** | Summer Intern Quant Talent Programme  | 16 Sep 25 | <a href="https://www.efinancialcareers.co.uk/jobs-United_Kingdom-London-2026_AHL_Summer_Intern_Quant_Talent_Programme.id23188457?utm_campaign=JS_UK_ALLJOBS&utm_medium=PD_AG_LINKEDIN&utm_source=EMEA_UK_ENG" alt="Apply" width="70"/></a> |
+| **Redis** | AI Research Internship  | 16 Sep 25 | <a href="https://job-boards.greenhouse.io/redis/jobs/5547597004?gh_src=99b6bb294us" alt="Apply" width="70"/></a> |
+| **BAE Systemts** | Summer Internship - Software Engineer  | 16 Sep 25 | <a href="https://jobsearch.baesystems.com/job/summer-internship-software-engineer-122024?src=JB-13240"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **ByteDance** | Solution Architect Project Intern (BytePlus) | 16 Sep 25 | <a href="https://joinbytedance.com/search/7543555717114906898"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Incident.io** | Product Engineer Summer Internship | 16 Sep 25 | <a href="https://incident.io/careers?ashby_jid=3abca7c8-3660-4f08-8bdf-a00d0a8dd40b&mPMlzoZzj4=LinkedIn"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Netcraft** | Software Engineer - Student Application | 13 Sep 25 | <a href="https://www.adzuna.co.uk/jobs/details/5396111820?v=740681173CA4CFE58E70BAB7F216482DFE12FDA5&frd=7bd788888b7daa30da93a019eafb9033&ccd=3e94757dad38353f6cf5afa7d575ccfd&r=20220673&utm_source=linkedin3&utm_medium=organic&chnlid=1936&title=Software%20Engineer%20-%20Student%20Application&a=e"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **LSEG** | Engineering Summer Internship Programme (2026) | 13 Sep 25 | <a href="https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme--2026-_R0111538-1?source=Linkedin"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Perplexity AI** | UK Internship Program | 11 Sep 25 | <a href="https://job-boards.greenhouse.io/perplexityai/jobs/4735785007"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
