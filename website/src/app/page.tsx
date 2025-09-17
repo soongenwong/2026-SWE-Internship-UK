@@ -84,6 +84,18 @@ const faangPlusCompanies = [
 
 const internships = [
   {
+    company: "Mercedes-AMG PETRONAS Formula One Team",
+    programme: "Engineering Software Industrial Placement",
+    openingDate: "17 Sep 25",
+    applyUrl: "https://www.mercedesamgf1.com/careers/vacancies/REQ-250383?source=linkedin"
+  },
+  {
+    company: "Monzo Bank",
+    programme: "Associate Software Engineer - Intern",
+    openingDate: "17 Sep 25",
+    applyUrl: "https://boards.greenhouse.io/embed/job_app?token=7171396&gh_src=8114893a1us"
+  },
+  {
     company: "Man Group",
     programme: "Summer Intern Quant Talent Programme",
     openingDate: "16 Sep 25",
