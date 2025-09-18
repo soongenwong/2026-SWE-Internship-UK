@@ -48,7 +48,7 @@ We appreciate your help in keeping this list up-to-date!
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
-| **Mercedes-AMG PETRONAS Formula One Team** | Engineering Software Industrial Placement | 17 Sep 25 | <a href="https://www.mercedesamgf1.com/careers/vacancies/REQ-250383?source=linkedin"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Millenium** | Software Engineer Intern | 18 Sep 25 | <a href="https://campusjobs.mlp.com/careers/job/755944532745?microsite=campus-site"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Monzo Bank** | Associate Software Engineer - Intern | 17 Sep 25 | <a href="https://boards.greenhouse.io/embed/job_app?token=7171396&gh_src=8114893a1us"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Man Group** | Summer Intern Quant Talent Programme  | 16 Sep 25 | <a href="https://www.efinancialcareers.co.uk/jobs-United_Kingdom-London-2026_AHL_Summer_Intern_Quant_Talent_Programme.id23188457?utm_campaign=JS_UK_ALLJOBS&utm_medium=PD_AG_LINKEDIN&utm_source=EMEA_UK_ENG"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Redis** | AI Research Internship  | 16 Sep 25 | <a href="https://job-boards.greenhouse.io/redis/jobs/5547597004?gh_src=99b6bb294us"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |

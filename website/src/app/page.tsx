@@ -84,10 +84,10 @@ const faangPlusCompanies = [
 
 const internships = [
   {
-    company: "Mercedes-AMG PETRONAS Formula One Team",
-    programme: "Engineering Software Industrial Placement",
-    openingDate: "17 Sep 25",
-    applyUrl: "https://www.mercedesamgf1.com/careers/vacancies/REQ-250383?source=linkedin"
+    company: "Millennium",
+    programme: "Software Engineer Intern",
+    openingDate: "18 Sep 25",
+    applyUrl: "https://campusjobs.mlp.com/careers/job/755944532745?microsite=campus-site"
   },
   {
     company: "Monzo Bank",
