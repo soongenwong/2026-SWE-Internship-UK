@@ -48,6 +48,8 @@ We appreciate your help in keeping this list up-to-date!
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
+| **Meta** | Product Security Engineer Intern | 19 Sep 25 | <a href="https://www.metacareers.com/jobs/1286018266665816/?rx_campaign=Linkedin1&rx_ch=connector&rx_group=126320&rx_id=0639ea40-94b7-11f0-bcc9-4754895b2413&rx_job=a1KDp00000E2e1XMAR&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20250919T001202Z&rx_vp=slots&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=7aaee54f85f111f0ac9671131ee867a522515d0504ac49f1bce7a1805d9c70e3"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **IBM** | Software Engineer Intern | 19 Sep 25 | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=SN_LinkedIn"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Millenium** | Software Engineer Intern | 18 Sep 25 | <a href="https://campusjobs.mlp.com/careers/job/755944532745?microsite=campus-site"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Monzo Bank** | Associate Software Engineer - Intern | 17 Sep 25 | <a href="https://boards.greenhouse.io/embed/job_app?token=7171396&gh_src=8114893a1us"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Man Group** | Summer Intern Quant Talent Programme  | 16 Sep 25 | <a href="https://www.efinancialcareers.co.uk/jobs-United_Kingdom-London-2026_AHL_Summer_Intern_Quant_Talent_Programme.id23188457?utm_campaign=JS_UK_ALLJOBS&utm_medium=PD_AG_LINKEDIN&utm_source=EMEA_UK_ENG"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |

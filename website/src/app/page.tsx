@@ -84,6 +84,18 @@ const faangPlusCompanies = [
 
 const internships = [
   {
+    company: "Meta",
+    programme: "Product Security Engineer Intern",
+    openingDate: "19 Sep 25",
+    applyUrl: "https://www.metacareers.com/jobs/1286018266665816/?rx_campaign=Linkedin1&rx_ch=connector&rx_group=126320&rx_id=0639ea40-94b7-11f0-bcc9-4754895b2413&rx_job=a1KDp00000E2e1XMAR&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20250919T001202Z&rx_vp=slots&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=7aaee54f85f111f0ac9671131ee867a522515d0504ac49f1bce7a1805d9c70e3"
+  },
+  {
+    company: "IBM",
+    programme: "Software Engineer Intern",
+    openingDate: "19 Sep 25",
+    applyUrl: "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=SN_LinkedIn"
+  },
+  {
     company: "Millennium",
     programme: "Software Engineer Intern",
     openingDate: "18 Sep 25",
