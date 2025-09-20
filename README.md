@@ -1,21 +1,54 @@
-# 2026 Software Engineering Internship UK
+# 2026 Software Engineering Internships UK 🚀
 
-This is a list of Software Engineering **Internships** and **Placements** for university students in the UK. Positions are updated daily, Star the repository for daily updates. 
+<div align="center">
 
-**🚀 Visit our new website! [2026-swe-internship-uk.vercel.app](https://2026-swe-internship-uk.vercel.app/) 🚀**
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=vercel)](https://2026-swe-internship-uk.vercel.app/)
+[![Stars](https://img.shields.io/github/stars/soongenwong/2026-SWE-Internship-UK?style=for-the-badge&logo=github)](https://github.com/soongenwong/2026-SWE-Internship-UK/stargazers)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Daily-green?style=for-the-badge&logo=github)](https://github.com/soongenwong/2026-SWE-Internship-UK/commits/main)
 
-Explore internship opportunities with a better UI and access exclusive resources:
-*   **Application Tips**: Strengthen your applications to land more interviews.
-*   **LeetCode Patterns**: Master essential patterns for technical interviews.
-*   **Interview Resources**: Prepare for every stage of the hiring process.
+</div>
 
-We appreciate your help in keeping this list up-to-date!
+## 🎯 About
 
-<p align="center">
-  <a href="#software-engineering-internships-2026">
-    <b>Skip to Software Engineering Internships</b>
-  </a>
-</p>
+Your comprehensive guide to **Software Engineering Internships** and **Placements** in the UK for 2026. Updated daily with new opportunities!
+
+## 🌟 Features
+
+<div align="center">
+
+<kbd>[🔍 Browse All Internships](https://2026-swe-internship-uk.vercel.app/)</kbd>&nbsp;&nbsp;
+<kbd>[📝 Application Tips](https://2026-swe-internship-uk.vercel.app/application-tips)</kbd>&nbsp;&nbsp;
+<kbd>[💻 LeetCode Patterns](https://2026-swe-internship-uk.vercel.app/leetcode-patterns)</kbd>&nbsp;&nbsp;
+<kbd>[📚 Interview Resources](https://2026-swe-internship-uk.vercel.app/resources)</kbd>
+
+</div>
+
+## 🤝 How to Contribute
+
+Help keep this list up-to-date! Here's how:
+
+1. 🍴 **Fork** this repository
+2. 🌿 Create a new branch: `git checkout -b add-company-name`
+3. ✏️ Add your changes to the appropriate table
+4. 💫 Commit: `git commit -m 'Add: [Company Name] internship'`
+5. 🚀 Push: `git push origin add-company-name`
+6. ✨ Open a Pull Request
+
+<details>
+<summary>💡 Contribution Guidelines</summary>
+
+- Ensure the company is hiring for 2026 internships
+- Include all required information (Company, Role, Opening Date, Apply Link)
+- Verify the application link is working
+- Format your entry consistently with existing ones
+</details>
+
+<div align="center">
+
+### 🏢 Quick Navigation
+[Skip to Software Engineering Internships](#software-engineering-internships-2026)
+
+</div>
 
 ### FAANG+ Companies 🚀
 
