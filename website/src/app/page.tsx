@@ -465,223 +465,158 @@ const internships = [
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800">
-      <div className="container mx-auto px-4 py-8">
+    <div className="min-h-screen bg-white dark:bg-gray-900">
+      <div className="max-w-7xl mx-auto px-4 py-12">
         {/* Header */}
-        <header className="text-center mb-12">
-          <h1 className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-4">
-            2026 Software Engineering
-            <span className="block text-blue-600 dark:text-blue-400">Internships UK</span>
+        <header className="text-center mb-16">
+          <h1 className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6 tracking-tight">
+            2026 SWE Internships
+            <span className="block text-blue-600 dark:text-blue-400 text-4xl md:text-6xl mt-2">UK</span>
           </h1>
-          <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            A comprehensive list of Software Engineering jobs for university students in the UK in search of{" "}
-            <strong>internships</strong> and <strong>placement</strong> positions. The positions are updated daily.
+          <p className="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-8 leading-relaxed">
+            Find your next software engineering internship in the UK. 
+            <span className="block mt-2 font-medium text-gray-800 dark:text-gray-200">
+              {internships.length} opportunities • Updated daily
+            </span>
           </p>
-          <div className="mt-6 flex justify-center gap-4 flex-wrap">
-            <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-800 dark:text-green-100">
-              ✨ Updated Daily
-            </span>
-            <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800 dark:bg-blue-800 dark:text-blue-100">
-              🇬🇧 UK Focused
-            </span>
-            <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-purple-100 text-purple-800 dark:bg-purple-800 dark:text-purple-100">
-              💼 {internships.length} Opportunities
-            </span>
-            <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-yellow-100 text-yellow-800 dark:bg-yellow-800 dark:text-yellow-100">
-              🚀 {faangPlusCompanies.length} FAANG+
-            </span>
-          </div>
           
-          {/* Resources Link */}
-          <div className="mt-6 flex justify-center gap-3 flex-wrap">
+          {/* Simple Resource Links */}
+          <div className="flex justify-center gap-4 flex-wrap">
             <Link 
               href="/application-tips"
-              className="inline-flex items-center px-5 py-3 bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold rounded-lg hover:from-purple-700 hover:to-pink-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+              className="px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors duration-200"
             >
-              🚀 Application Tips
+              Application Tips
             </Link>
             <Link 
               href="/leetcode-patterns"
-              className="inline-flex items-center px-5 py-3 bg-gradient-to-r from-green-600 to-teal-600 text-white font-semibold rounded-lg hover:from-green-700 hover:to-teal-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+              className="px-6 py-3 bg-green-600 text-white font-medium rounded-lg hover:bg-green-700 transition-colors duration-200"
             >
-              💻 LeetCode Patterns
+              LeetCode Patterns
             </Link>
             <Link 
               href="/resources"
-              className="inline-flex items-center px-5 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg hover:from-blue-700 hover:to-purple-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+              className="px-6 py-3 bg-purple-600 text-white font-medium rounded-lg hover:bg-purple-700 transition-colors duration-200"
             >
-              📚 Interview Resources
+              Resources
             </Link>
           </div>
         </header>
 
-        {/* Stats */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
-          <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 text-center">
-            <div className="text-3xl font-bold text-blue-600 dark:text-blue-400 mb-2">{internships.length}</div>
-            <div className="text-gray-600 dark:text-gray-300">Total Opportunities</div>
-          </div>
-          <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 text-center">
-            <div className="text-3xl font-bold text-green-600 dark:text-green-400 mb-2">
-              {new Set(internships.map(i => i.company)).size}
-            </div>
-            <div className="text-gray-600 dark:text-gray-300">Companies</div>
-          </div>
-          <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 text-center">
-            <div className="text-3xl font-bold text-purple-600 dark:text-purple-400 mb-2">2026</div>
-            <div className="text-gray-600 dark:text-gray-300">Summer Programs</div>
-          </div>
-        </div>
-
         {/* FAANG+ Companies Section */}
-        <div className="bg-gradient-to-r from-yellow-50 to-orange-50 dark:from-gray-800 dark:to-gray-700 rounded-lg shadow-xl overflow-hidden mb-12 border-2 border-yellow-200 dark:border-yellow-600">
-          <div className="px-6 py-4 bg-gradient-to-r from-yellow-100 to-orange-100 dark:from-gray-700 dark:to-gray-600 border-b dark:border-gray-600">
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-white flex items-center gap-2">
-              🚀 FAANG+ Companies
-              <span className="text-sm font-normal text-gray-600 dark:text-gray-300">
-                ({faangPlusCompanies.length} Premium Opportunities)
-              </span>
+        <div className="mb-16">
+          <div className="text-center mb-8">
+            <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">
+              Top Companies
             </h2>
-            <p className="text-sm text-gray-600 dark:text-gray-300 mt-1">
-              Top-tier technology companies and trading firms
+            <p className="text-gray-600 dark:text-gray-300">
+              Premium opportunities at leading tech companies
             </p>
           </div>
           
-          <div className="overflow-x-auto">
-            <table className="min-w-full divide-y divide-gray-200 dark:divide-gray-600">
-              <thead className="bg-yellow-50 dark:bg-gray-700">
-                <tr>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
-                    Company Name
-                  </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
-                    Programme Name
-                  </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
-                    Opening Date
-                  </th>
-                  <th className="px-6 py-3 text-center text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
-                    Apply
-                  </th>
-                </tr>
-              </thead>
-              <tbody className="bg-white dark:bg-gray-800 divide-y divide-gray-200 dark:divide-gray-600">
-                {faangPlusCompanies.map((internship, index) => (
-                  <tr 
-                    key={index} 
-                    className="hover:bg-yellow-50 dark:hover:bg-gray-700 transition-colors duration-200"
-                  >
-                    <td className="px-6 py-4 whitespace-nowrap">
-                      <div className="font-bold text-gray-900 dark:text-white flex items-center gap-2">
-                        {internship.company}
-                        <span className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-yellow-100 text-yellow-800 dark:bg-yellow-800 dark:text-yellow-100">
-                          ⭐
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 dark:from-gray-800 dark:to-gray-700 rounded-2xl p-8 border border-amber-200 dark:border-gray-600">
+            <div className="grid gap-4">
+              {faangPlusCompanies.map((internship, index) => (
+                <div 
+                  key={index} 
+                  className="bg-white dark:bg-gray-800 rounded-xl p-6 border border-gray-200 dark:border-gray-600 hover:shadow-md transition-shadow duration-200"
+                >
+                  <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
+                    <div className="flex-1">
+                      <div className="flex items-center gap-3 mb-2">
+                        <h3 className="text-xl font-bold text-gray-900 dark:text-white">
+                          {internship.company}
+                        </h3>
+                        <span className="px-2 py-1 bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-200 text-xs font-medium rounded-full">
+                          Top Tier
                         </span>
                       </div>
-                    </td>
-                    <td className="px-6 py-4">
-                      <div className="text-sm text-gray-900 dark:text-white font-medium">
+                      <p className="text-gray-700 dark:text-gray-300 mb-2">
                         {internship.programme}
-                      </div>
-                    </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-300">
-                      {internship.openingDate}
-                    </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-center">
+                      </p>
+                      <p className="text-sm text-gray-500 dark:text-gray-400">
+                        Opening: {internship.openingDate}
+                      </p>
+                    </div>
+                    <div>
                       <a
                         href={internship.applyUrl}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-orange-500 hover:from-yellow-600 hover:to-orange-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500 transition-all duration-200 transform hover:scale-105 shadow-lg"
+                        className="inline-block px-6 py-3 bg-amber-600 text-white font-medium rounded-lg hover:bg-amber-700 transition-colors duration-200"
                       >
-                        Apply Now ⭐
+                        Apply Now
                       </a>
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
 
-        {/* Main Table */}
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xl overflow-hidden">
-          <div className="px-6 py-4 bg-gray-50 dark:bg-gray-700 border-b dark:border-gray-600">
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-white">Software Engineering Internships 2026</h2>
+        {/* Main Internships */}
+        <div className="mb-16">
+          <div className="text-center mb-8">
+            <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">
+              All Internships
+            </h2>
+            <p className="text-gray-600 dark:text-gray-300">
+              Complete list of software engineering opportunities
+            </p>
           </div>
           
-          <div className="overflow-x-auto">
-            <table className="min-w-full divide-y divide-gray-200 dark:divide-gray-600">
-              <thead className="bg-gray-50 dark:bg-gray-700">
-                <tr>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
-                    Company Name
-                  </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
-                    Programme Name
-                  </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
-                    Opening Date
-                  </th>
-                  <th className="px-6 py-3 text-center text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider">
-                    Apply
-                  </th>
-                </tr>
-              </thead>
-              <tbody className="bg-white dark:bg-gray-800 divide-y divide-gray-200 dark:divide-gray-600">
-                {internships.map((internship, index) => (
-                  <tr 
-                    key={index} 
-                    className="hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200"
-                  >
-                    <td className="px-6 py-4 whitespace-nowrap">
-                      <div className="font-bold text-gray-900 dark:text-white">
+          <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 overflow-hidden">
+            <div className="grid gap-1">
+              {internships.map((internship, index) => (
+                <div 
+                  key={index} 
+                  className="p-6 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200 border-b border-gray-100 dark:border-gray-700 last:border-b-0"
+                >
+                  <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
+                    <div className="flex-1">
+                      <h3 className="text-lg font-bold text-gray-900 dark:text-white mb-1">
                         {internship.company}
-                      </div>
-                    </td>
-                    <td className="px-6 py-4">
-                      <div className="text-gray-900 dark:text-white max-w-md">
+                      </h3>
+                      <p className="text-gray-700 dark:text-gray-300 mb-2">
                         {internship.programme}
-                      </div>
-                    </td>
-                    <td className="px-6 py-4 whitespace-nowrap">
-                      <div className="text-gray-700 dark:text-gray-300">
+                      </p>
+                      <p className="text-sm text-gray-500 dark:text-gray-400">
                         {internship.openingDate}
-                      </div>
-                    </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-center">
+                      </p>
+                    </div>
+                    <div>
                       <a
                         href={internship.applyUrl}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors duration-200"
+                        className="inline-block px-6 py-2 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors duration-200"
                       >
                         Apply
                       </a>
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
 
         {/* Footer */}
-        <footer className="mt-12 text-center text-gray-600 dark:text-gray-400">
-          <p className="mb-4">
-            ⭐ Star the repository for internship opportunities! | 📅 Last updated: September 2025
-          </p>
-          <div className="flex justify-center gap-4 flex-wrap">
+        <footer className="text-center text-gray-600 dark:text-gray-400">
+          <div className="flex justify-center items-center gap-6 mb-4">
             <a 
               href="https://github.com/soongenwong/2026-SWE-Internship-UK" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium"
+              className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 font-medium transition-colors duration-200"
             >
-              GitHub Repository
+              Star on GitHub
             </a>
             <span className="text-gray-400">•</span>
-            <span>Made with ❤️ for students</span>
+            <span>Updated Daily</span>
+            <span className="text-gray-400">•</span>
+            <span>Made for Students</span>
           </div>
         </footer>
       </div>
