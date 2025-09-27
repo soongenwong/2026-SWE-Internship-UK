@@ -6,13 +6,13 @@ const faangPlusCompanies = [
     company: "Meta",
     programme: "Software Engineer Intern",
     openingDate: "17 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://www.metacareers.com/jobs/1177716950861965/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Google",
     programme: "Software Engineering Intern, 2026",
     openingDate: "16 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://www.google.com/about/careers/applications/jobs/results/93991924192420550-software-engineering-site-reliability-engineering-bsms-intern-2026?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "TikTok",
@@ -96,100 +96,88 @@ const faangPlusCompanies = [
 
 const internships = [
   {
-    company: "Meta",
-    programme: "Software Engineer Intern",
-    openingDate: "17 Sep 25",
-    applyUrl: "#"
-  },
-  {
-    company: "Google",
-    programme: "Software Engineering Intern, 2026",
-    openingDate: "16 Sep 25",
-    applyUrl: "#"
-  },
-  {
     company: "Epic Games",
     programme: "Gameplay Programmer Intern",
     openingDate: "27 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://www.epicgames.com/site/en-US/careers/jobs/5621025004?gh_jid=5621025004&gh_src=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Blackstone",
     programme: "2026 Software Developer Summer Analyst",
     openingDate: "26 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/XMLNAME-2026-Blackstone-Technology---Innovations---Software-Developer-Summer-Analyst_39475?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"
   },
   {
     company: "MathWorks",
     programme: "Software Development Internship",
     openingDate: "26 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://uk.mathworks.com/company/jobs/opportunities/25611-multiple-openings-software-development-internship?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Fleek",
     programme: "Software Engineering Intern (London-based)",
     openingDate: "26 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://www.ycombinator.com/companies/fleek/jobs/lGtFTVa-software-engineering-intern-london-based?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
-    company: "ITP",
+    company: "TTP",
     programme: "Consultant Software Engineer Summer Internship",
     openingDate: "26 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://jobs.smartrecruiters.com/TTP1/744000083951065-consultant-software-engineer-summer-internship?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&trid=Trackr&dcr_ci=Trackr"
   },
   {
     company: "Qube RT",
     programme: "2026 Internship - Software Engineering",
     openingDate: "25 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://www.qube-rt.com/careers/?location=&sector=Technology&experience=Students+and+New+Grads&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Symphony",
     programme: "Intern, Software Development",
     openingDate: "25 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://symphony.com/company/apply/?gh_jid=7267890&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"
   },
   {
     company: "MBDA",
     programme: "Software Engineering - Summer Placement 2026",
     openingDate: "25 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://mbda.wd3.myworkdayjobs.com/en-US/MBDA-UK/job/Software-Engineering---Summer-Placement-2026_R29488?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"
   },
   {
     company: "NatWest Markets",
     programme: "Engineering - Internship",
     openingDate: "24 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://rbs.wd3.myworkdayjobs.com/en-US/RBS/jobs?jobFamilyGroup=fd2c157204cd017f69bbe493c30c681d&jobFamilyGroup=fd2c157204cd01ca4684e693c30c701d&workerSubType=fd2c157204cd01c1e4c39a94be0cba09&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"
   },
   {
     company: "Point72",
     programme: "2026 Summer Internship – Data Engineer, Long/Short Equities",
     openingDate: "24 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://job-boards.greenhouse.io/point72/jobs/8183047002?gh_jid=8183047002&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"
   },
   {
     company: "Tesco",
     programme: "Technology Internship",
     openingDate: "23 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://tescoearlycareers.groupgti.com/VacancyPosting/Search?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026#!/?text=searchField:%22technology%22%20ALSO%20dynamicstring_Vacancy_Name:%22technology%22%20AND%20%22internship%22"
   },
   {
     company: "AMD",
     programme: "Summer 2026 Software Engineer Intern",
     openingDate: "23 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://careers.amd.com/students/jobs?stretchUnit=MILES&stretch=10&location=United+Kingdom&page=1&categories=Student+%2F+Intern+%2F+Temp&keywords=%22summer+2026%22&sortBy=relevance&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Deloitte",
     programme: "Summer Vacation Scheme",
     openingDate: "22 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://apply.deloitte.co.uk/UKEarlyCareers/SearchJobs/?4934=2772647&4934_format=4380&4935=2774097&4935_format=4381&listFilterMode=1&jobRecordsPerPage=20&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Arm",
     programme: "Software Intern",
     openingDate: "22 Sep 25",
-    applyUrl: "#"
+    applyUrl: "https://careers.arm.com/search-jobs/software%20engineer%20intern/Ireland?orgIds=33099&kt=1&alp=2963597&alt=2&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Meta",
@@ -204,7 +192,7 @@ const internships = [
     applyUrl: "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=SN_LinkedIn"
   },
   {
-    company: "Millennium",
+    company: "Millenium",
     programme: "Software Engineer Intern",
     openingDate: "18 Sep 25",
     applyUrl: "https://campusjobs.mlp.com/careers/job/755944532745?microsite=campus-site"
@@ -214,6 +202,18 @@ const internships = [
     programme: "Associate Software Engineer - Intern",
     openingDate: "17 Sep 25",
     applyUrl: "https://boards.greenhouse.io/embed/job_app?token=7171396&gh_src=8114893a1us"
+  },
+  {
+    company: "Meta",
+    programme: "Software Engineer Intern",
+    openingDate: "17 Sep 25",
+    applyUrl: "https://www.metacareers.com/jobs/1177716950861965/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
+    company: "Google",
+    programme: "Software Engineering Intern, 2026",
+    openingDate: "16 Sep 25",
+    applyUrl: "#"
   },
   {
     company: "Man Group",
