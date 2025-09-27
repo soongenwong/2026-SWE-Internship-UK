@@ -710,6 +710,276 @@ export default function Home() {
           </div>
         </div>
 
+        {/* FAQ Section */}
+        <div className="mb-16">
+          <div className="text-center mb-8">
+            <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">
+              Frequently Asked Questions
+            </h2>
+            <p className="text-gray-600 dark:text-gray-300">
+              Everything you need to know about software engineering internships
+            </p>
+          </div>
+          
+          <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 overflow-hidden">
+            <div className="divide-y divide-gray-200 dark:divide-gray-700">
+              
+              {/* FAQ Item 1 */}
+              <details className="group">
+                <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                      When should I start applying for 2026 summer internships?
+                    </h3>
+                    <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </div>
+                </summary>
+                <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
+                  <p>Most companies start accepting applications between July and September 2025, with some opening as early as June. Apply as soon as applications open - many companies use rolling admissions and fill positions on a first-come, first-served basis. Don't wait until the last minute!</p>
+                </div>
+              </details>
+
+              {/* FAQ Item 2 */}
+              <details className="group">
+                <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                      Do I need previous internship experience to get a software engineering internship?
+                    </h3>
+                    <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </div>
+                </summary>
+                <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
+                  <p className="mb-3">No! Many internships are designed for students with no prior professional experience. Focus on:</p>
+                  <ul className="list-disc list-inside space-y-1">
+                    <li>Personal projects that demonstrate your coding skills</li>
+                    <li>Coursework and academic projects</li>
+                    <li>Open source contributions</li>
+                    <li>Hackathon participation</li>
+                    <li>Any coding bootcamps or online courses you've completed</li>
+                  </ul>
+                </div>
+              </details>
+
+              {/* FAQ Item 3 */}
+              <details className="group">
+                <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                      What programming languages should I know for software engineering internships?
+                    </h3>
+                    <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </div>
+                </summary>
+                <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
+                  <p className="mb-3">The most commonly requested languages are:</p>
+                  <ul className="list-disc list-inside space-y-1 mb-3">
+                    <li><strong>Python</strong> - Great for beginners, widely used in tech</li>
+                    <li><strong>Java</strong> - Popular at large tech companies</li>
+                    <li><strong>JavaScript</strong> - Essential for web development roles</li>
+                    <li><strong>C++</strong> - Important for systems programming and some FAANG companies</li>
+                    <li><strong>SQL</strong> - Critical for data-related roles</li>
+                  </ul>
+                  <p>Focus on mastering one or two languages well rather than knowing many superficially.</p>
+                </div>
+              </details>
+
+              {/* FAQ Item 4 */}
+              <details className="group">
+                <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                      How should I prepare for technical interviews?
+                    </h3>
+                    <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </div>
+                </summary>
+                <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
+                  <ol className="list-decimal list-inside space-y-1 mb-3">
+                    <li><strong>Practice coding problems</strong> on LeetCode, HackerRank, or CodeSignal</li>
+                    <li><strong>Master data structures and algorithms</strong> - arrays, linked lists, trees, graphs, sorting, searching</li>
+                    <li><strong>Review system design basics</strong> for senior internships</li>
+                    <li><strong>Practice explaining your thought process</strong> out loud</li>
+                    <li><strong>Prepare behavioral questions</strong> using the STAR method</li>
+                    <li><strong>Review your resume projects</strong> in detail</li>
+                  </ol>
+                  <p>Check out our <Link href="/leetcode-patterns" className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 font-medium">LeetCode Patterns</Link> and <Link href="/resources" className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 font-medium">Interview Resources</Link> for detailed guidance.</p>
+                </div>
+              </details>
+
+              {/* FAQ Item 5 */}
+              <details className="group">
+                <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                      What should I include in my software engineering internship resume?
+                    </h3>
+                    <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </div>
+                </summary>
+                <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
+                  <p className="mb-3"><strong>Essential sections:</strong></p>
+                  <ul className="list-disc list-inside space-y-1 mb-3">
+                    <li><strong>Contact information</strong> and LinkedIn/GitHub profiles</li>
+                    <li><strong>Education</strong> with relevant coursework and GPA (if 3.5+)</li>
+                    <li><strong>Technical skills</strong> grouped by category (languages, frameworks, tools)</li>
+                    <li><strong>Projects</strong> with brief descriptions, technologies used, and GitHub links</li>
+                    <li><strong>Experience</strong> (any work experience, even non-tech)</li>
+                    <li><strong>Activities</strong> like hackathons, clubs, or volunteer work</li>
+                  </ul>
+                  <p className="mb-3"><strong>Tips:</strong></p>
+                  <ul className="list-disc list-inside space-y-1">
+                    <li>Keep it to 1 page</li>
+                    <li>Use action verbs and quantify achievements</li>
+                    <li>Tailor it for each application</li>
+                    <li>Get it reviewed by career services or experienced developers</li>
+                  </ul>
+                </div>
+              </details>
+
+              {/* FAQ Item 6 */}
+              <details className="group">
+                <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                      Are software engineering internships paid in the UK?
+                    </h3>
+                    <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </div>
+                </summary>
+                <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
+                  <p className="mb-3">Yes! Most software engineering internships in the UK are paid, especially at tech companies and financial firms. Typical ranges:</p>
+                  <ul className="list-disc list-inside space-y-1 mb-3">
+                    <li><strong>FAANG companies:</strong> £4,000-£8,000+ per month</li>
+                    <li><strong>Financial services:</strong> £3,500-£7,000+ per month</li>
+                    <li><strong>Tech startups:</strong> £2,500-£4,500 per month</li>
+                    <li><strong>Traditional companies:</strong> £2,000-£4,000 per month</li>
+                  </ul>
+                  <p>Some also provide additional benefits like housing allowances, transport, or meal vouchers.</p>
+                </div>
+              </details>
+
+              {/* FAQ Item 7 */}
+              <details className="group">
+                <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                      Can international students apply for these internships?
+                    </h3>
+                    <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </div>
+                </summary>
+                <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
+                  <p className="mb-3">Yes, but visa requirements vary:</p>
+                  <ul className="list-disc list-inside space-y-1 mb-3">
+                    <li><strong>UK/EU students:</strong> Can work freely</li>
+                    <li><strong>International students on student visas:</strong> Can typically work during summer breaks, but check your visa conditions</li>
+                    <li><strong>Other international students:</strong> May need visa sponsorship</li>
+                  </ul>
+                  <p>Many large companies sponsor visas for exceptional candidates. Always check the job posting for visa requirements and reach out to recruiters if unsure.</p>
+                </div>
+              </details>
+
+              {/* FAQ Item 8 */}
+              <details className="group">
+                <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                      What's the difference between spring, summer, and autumn internships?
+                    </h3>
+                    <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </div>
+                </summary>
+                <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
+                  <ul className="list-disc list-inside space-y-1 mb-3">
+                    <li><strong>Summer internships (June-September):</strong> Most common, typically 10-12 weeks, highest number of positions available</li>
+                    <li><strong>Spring internships (March-May):</strong> Less common, good for students with different academic calendars</li>
+                    <li><strong>Autumn internships (September-November):</strong> Rare but available at some companies</li>
+                    <li><strong>Year-long placements:</strong> Some companies offer 12-month industrial placements</li>
+                  </ul>
+                  <p>Summer internships offer the most opportunities and networking potential.</p>
+                </div>
+              </details>
+
+              {/* FAQ Item 9 */}
+              <details className="group">
+                <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                      How competitive are software engineering internships at top companies?
+                    </h3>
+                    <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </div>
+                </summary>
+                <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
+                  <p className="mb-3">Very competitive, but not impossible:</p>
+                  <ul className="list-disc list-inside space-y-1 mb-3">
+                    <li><strong>FAANG companies:</strong> Accept 1-5% of applicants</li>
+                    <li><strong>Top financial firms:</strong> Accept 2-8% of applicants</li>
+                    <li><strong>Unicorn startups:</strong> Accept 5-15% of applicants</li>
+                    <li><strong>Other tech companies:</strong> Accept 10-30% of applicants</li>
+                  </ul>
+                  <p className="mb-3"><strong>Improve your odds by:</strong></p>
+                  <ul className="list-disc list-inside space-y-1">
+                    <li>Applying early when applications open</li>
+                    <li>Having strong projects and technical skills</li>
+                    <li>Getting referrals from employees</li>
+                    <li>Applying to a mix of company sizes and types</li>
+                    <li>Preparing thoroughly for interviews</li>
+                  </ul>
+                </div>
+              </details>
+
+              {/* FAQ Item 10 */}
+              <details className="group">
+                <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                      What if I don't get an internship for summer 2026?
+                    </h3>
+                    <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </div>
+                </summary>
+                <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
+                  <p className="mb-3">Don't panic! Here are alternatives:</p>
+                  <ul className="list-disc list-inside space-y-1 mb-3">
+                    <li><strong>Keep applying</strong> - some companies have later deadlines or reopen applications</li>
+                    <li><strong>Consider smaller companies</strong> that may still be hiring</li>
+                    <li><strong>Look for research opportunities</strong> with university professors</li>
+                    <li><strong>Build personal projects</strong> to strengthen your resume for next year</li>
+                    <li><strong>Contribute to open source</strong> projects</li>
+                    <li><strong>Attend hackathons</strong> and networking events</li>
+                    <li><strong>Consider part-time roles</strong> during the academic year</li>
+                    <li><strong>Apply for spring 2027</strong> internships early</li>
+                  </ul>
+                  <p>Use the summer to build skills and experience that will make you a stronger candidate next time.</p>
+                </div>
+              </details>
+
+            </div>
+          </div>
+        </div>
+
         {/* Footer */}
         <footer className="text-center text-gray-600 dark:text-gray-400">
           <div className="flex justify-center items-center gap-6 mb-4">

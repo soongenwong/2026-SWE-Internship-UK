@@ -156,3 +156,155 @@ Help keep this list up-to-date! Here's how:
 | **Bending Spoons** | Software Engineer, Intern | 02 May 25 | <a href="https://jobs.bendingspoons.com/?contractType=internship&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 
 <!-- TABLE_END -->
+
+---
+
+## ❓ Frequently Asked Questions
+
+<details>
+<summary><strong>1. When should I start applying for 2026 summer internships?</strong></summary>
+
+Most companies start accepting applications between July and September 2025, with some opening as early as June. Apply as soon as applications open - many companies use rolling admissions and fill positions on a first-come, first-served basis. Don't wait until the last minute!
+
+</details>
+
+<details>
+<summary><strong>2. Do I need previous internship experience to get a software engineering internship?</strong></summary>
+
+No! Many internships are designed for students with no prior professional experience. Focus on:
+- Personal projects that demonstrate your coding skills
+- Coursework and academic projects
+- Open source contributions
+- Hackathon participation
+- Any coding bootcamps or online courses you've completed
+
+</details>
+
+<details>
+<summary><strong>3. What programming languages should I know for software engineering internships?</strong></summary>
+
+The most commonly requested languages are:
+- **Python** - Great for beginners, widely used in tech
+- **Java** - Popular at large tech companies
+- **JavaScript** - Essential for web development roles
+- **C++** - Important for systems programming and some FAANG companies
+- **SQL** - Critical for data-related roles
+
+Focus on mastering one or two languages well rather than knowing many superficially.
+
+</details>
+
+<details>
+<summary><strong>4. How should I prepare for technical interviews?</strong></summary>
+
+1. **Practice coding problems** on LeetCode, HackerRank, or CodeSignal
+2. **Master data structures and algorithms** - arrays, linked lists, trees, graphs, sorting, searching
+3. **Review system design basics** for senior internships
+4. **Practice explaining your thought process** out loud
+5. **Prepare behavioral questions** using the STAR method
+6. **Review your resume projects** in detail
+
+Check out our [LeetCode Patterns](https://2026-swe-internship-uk.vercel.app/leetcode-patterns) and [Interview Resources](https://2026-swe-internship-uk.vercel.app/resources) for detailed guidance.
+
+</details>
+
+<details>
+<summary><strong>5. What should I include in my software engineering internship resume?</strong></summary>
+
+**Essential sections:**
+- **Contact information** and LinkedIn/GitHub profiles
+- **Education** with relevant coursework and GPA (if 3.5+)
+- **Technical skills** grouped by category (languages, frameworks, tools)
+- **Projects** with brief descriptions, technologies used, and GitHub links
+- **Experience** (any work experience, even non-tech)
+- **Activities** like hackathons, clubs, or volunteer work
+
+**Tips:**
+- Keep it to 1 page
+- Use action verbs and quantify achievements
+- Tailor it for each application
+- Get it reviewed by career services or experienced developers
+
+</details>
+
+<details>
+<summary><strong>6. Are software engineering internships paid in the UK?</strong></summary>
+
+Yes! Most software engineering internships in the UK are paid, especially at tech companies and financial firms. Typical ranges:
+- **FAANG companies:** £4,000-£8,000+ per month
+- **Financial services:** £3,500-£7,000+ per month  
+- **Tech startups:** £2,500-£4,500 per month
+- **Traditional companies:** £2,000-£4,000 per month
+
+Some also provide additional benefits like housing allowances, transport, or meal vouchers.
+
+</details>
+
+<details>
+<summary><strong>7. Can international students apply for these internships?</strong></summary>
+
+Yes, but visa requirements vary:
+- **UK/EU students:** Can work freely
+- **International students on student visas:** Can typically work during summer breaks, but check your visa conditions
+- **Other international students:** May need visa sponsorship
+
+Many large companies sponsor visas for exceptional candidates. Always check the job posting for visa requirements and reach out to recruiters if unsure.
+
+</details>
+
+<details>
+<summary><strong>8. What's the difference between spring, summer, and autumn internships?</strong></summary>
+
+- **Summer internships (June-September):** Most common, typically 10-12 weeks, highest number of positions available
+- **Spring internships (March-May):** Less common, good for students with different academic calendars
+- **Autumn internships (September-November):** Rare but available at some companies
+- **Year-long placements:** Some companies offer 12-month industrial placements
+
+Summer internships offer the most opportunities and networking potential.
+
+</details>
+
+<details>
+<summary><strong>9. How competitive are software engineering internships at top companies?</strong></summary>
+
+Very competitive, but not impossible:
+- **FAANG companies:** Accept 1-5% of applicants
+- **Top financial firms:** Accept 2-8% of applicants  
+- **Unicorn startups:** Accept 5-15% of applicants
+- **Other tech companies:** Accept 10-30% of applicants
+
+**Improve your odds by:**
+- Applying early when applications open
+- Having strong projects and technical skills
+- Getting referrals from employees
+- Applying to a mix of company sizes and types
+- Preparing thoroughly for interviews
+
+</details>
+
+<details>
+<summary><strong>10. What if I don't get an internship for summer 2026?</strong></summary>
+
+Don't panic! Here are alternatives:
+- **Keep applying** - some companies have later deadlines or reopen applications
+- **Consider smaller companies** that may still be hiring
+- **Look for research opportunities** with university professors
+- **Build personal projects** to strengthen your resume for next year
+- **Contribute to open source** projects
+- **Attend hackathons** and networking events
+- **Consider part-time roles** during the academic year
+- **Apply for spring 2027** internships early
+
+Use the summer to build skills and experience that will make you a stronger candidate next time.
+
+</details>
+
+---
+
+<div align="center">
+
+**Good luck with your applications! 🚀**
+
+*Don't forget to ⭐ this repository if it helped you!*
+
+</div>
