@@ -54,29 +54,47 @@ Help keep this list up-to-date! Here's how:
 
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
-| **Microsoft** | Software Engineer Internship Opportunities | 04 Sep 25 | <a href="https://jobs.careers.microsoft.com/global/en/share/1871538/?utm_source=Trackr&utm_campaign=UK_Technology_2026&utm_medium=tracker"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Meta** | Security Engineer Intern | 05 Sep 25 | <a href="https://www.metacareers.com/jobs/770613715578381?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Amazon** | 2026 Software Dev Engineer Intern | 03 Sep 25 | <a href="https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Palantir** | Software Engineer, Internship | 01 Aug 25 | <a href="https://jobs.lever.co/palantir?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lever-source=Trackr&commitment=Internship&location=London%2C+United+Kingdom"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Meta** | Software Engineer Intern | 17 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Google** | Software Engineering Intern, 2026 | 16 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **TikTok** | Data Scientist Intern | 11 Sep 25 | <a href="https://lifeattiktok.com/search/7535469099951147272?spread=5MWH5CQ"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Perplexity AI** | UK Internship Program | 11 Sep 25 | <a href="https://job-boards.greenhouse.io/perplexityai/jobs/4735785007"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Revolut** | Rev-celerator Internship Programme 2026 | 15 Jun 25 | <a href="https://www.revolut.com/careers/?text=rev-celerator+internship+programme&team=Engineering&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Figma** | Software Engineer Intern | 09 Sep 25 | <a href="https://job-boards.greenhouse.io/figma/jobs/5621177004?gh_jid=5621177004&gh_src=28109e334us&source=LinkedIn"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Citadel** | Software Engineer - Intern (Europe) | 12 Aug 25 | <a href="https://www.citadel.com/careers/details/software-engineer-intern-europe/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Jane Street** | Software Engineer Internship | 04 Aug 25 | <a href="https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=london&department=technology&duration=june-september&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Meta** | Security Engineer Intern | 05 Sep 25 | <a href="https://www.metacareers.com/jobs/770613715578381?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Microsoft** | Software Engineer Internship Opportunities | 04 Sep 25 | <a href="https://jobs.careers.microsoft.com/global/en/share/1871538/?utm_source=Trackr&utm_campaign=UK_Technology_2026&utm_medium=tracker"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Amazon** | 2026 Software Dev Engineer Intern | 03 Sep 25 | <a href="https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Optiver** | Software Engineer Internship (2026 Start) | 26 Aug 25 | <a href="https://optiver.com/working-at-optiver/career-opportunities/?numberposts=10&paged=1&department=technology&level=internship&office=amsterdam&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Citadel** | Software Engineer - Intern (Europe) | 12 Aug 25 | <a href="https://www.citadel.com/careers/details/software-engineer-intern-europe/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **BNP Paribas** | 2026 Summer Internship - Technology | 12 Aug 25 | <a href="https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=60554&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Jane Street** | Software Engineer Internship | 04 Aug 25 | <a href="https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=london&department=technology&duration=june-september&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Jump Trading** | Campus Software Engineer (Intern) | 02 Aug 25 | <a href="https://www.jumptrading.com/careers/6946008/?gh_jid=6946008&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Palantir** | Software Engineer, Internship | 01 Aug 25 | <a href="https://jobs.lever.co/palantir?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lever-source=Trackr&commitment=Internship&location=London%2C+United+Kingdom"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Revolut** | Rev-celerator Internship Programme 2026 | 15 Jun 25 | <a href="https://www.revolut.com/careers/?text=rev-celerator+internship+programme&team=Engineering&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 
 ### Software Engineering Internships 2026
 
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
+| **Epic Games** | Gameplay Programmer Intern | 27 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Blackstone** | 2026 Software Developer Summer Analyst | 26 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **MathWorks** | Software Development Internship | 26 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Fleek** | Software Engineering Intern (London-based) | 26 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **ITP** | Consultant Software Engineer Summer Internship | 26 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Qube RT** | 2026 Internship - Software Engineering | 25 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Symphony** | Intern, Software Development | 25 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **MBDA** | Software Engineering - Summer Placement 2026 | 25 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **NatWest Markets** | Engineering - Internship | 24 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Point72** | 2026 Summer Internship – Data Engineer, Long/Short Equities | 24 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Tesco** | Technology Internship | 23 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **AMD** | Summer 2026 Software Engineer Intern | 23 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Deloitte** | Summer Vacation Scheme | 22 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Arm** | Software Intern | 22 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Meta** | Product Security Engineer Intern | 19 Sep 25 | <a href="https://www.metacareers.com/jobs/1286018266665816/?rx_campaign=Linkedin1&rx_ch=connector&rx_group=126320&rx_id=0639ea40-94b7-11f0-bcc9-4754895b2413&rx_job=a1KDp00000E2e1XMAR&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20250919T001202Z&rx_vp=slots&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=7aaee54f85f111f0ac9671131ee867a522515d0504ac49f1bce7a1805d9c70e3"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **IBM** | Software Engineer Intern | 19 Sep 25 | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=SN_LinkedIn"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Millenium** | Software Engineer Intern | 18 Sep 25 | <a href="https://campusjobs.mlp.com/careers/job/755944532745?microsite=campus-site"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Monzo Bank** | Associate Software Engineer - Intern | 17 Sep 25 | <a href="https://boards.greenhouse.io/embed/job_app?token=7171396&gh_src=8114893a1us"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Meta** | Software Engineer Intern | 17 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Google** | Software Engineering Intern, 2026 | 16 Sep 25 | <a href="#"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Man Group** | Summer Intern Quant Talent Programme  | 16 Sep 25 | <a href="https://www.efinancialcareers.co.uk/jobs-United_Kingdom-London-2026_AHL_Summer_Intern_Quant_Talent_Programme.id23188457?utm_campaign=JS_UK_ALLJOBS&utm_medium=PD_AG_LINKEDIN&utm_source=EMEA_UK_ENG"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Redis** | AI Research Internship  | 16 Sep 25 | <a href="https://job-boards.greenhouse.io/redis/jobs/5547597004?gh_src=99b6bb294us"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **BAE Systems** | Summer Internship - Software Engineer  | 16 Sep 25 | <a href="https://jobsearch.baesystems.com/job/summer-internship-software-engineer-122024?src=JB-13240"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |

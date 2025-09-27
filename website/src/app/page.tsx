@@ -3,28 +3,16 @@ import Link from "next/link";
 // FAANG+ Companies - Premium tech companies
 const faangPlusCompanies = [
   {
-    company: "Microsoft",
-    programme: "Software Engineer Internship Opportunities",
-    openingDate: "04 Sep 25",
-    applyUrl: "https://jobs.careers.microsoft.com/global/en/share/1871538/?utm_source=Trackr&utm_campaign=UK_Technology_2026&utm_medium=tracker"
-  },
-  {
     company: "Meta",
-    programme: "Security Engineer Intern",
-    openingDate: "05 Sep 25",
-    applyUrl: "https://www.metacareers.com/jobs/770613715578381?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+    programme: "Software Engineer Intern",
+    openingDate: "17 Sep 25",
+    applyUrl: "#"
   },
   {
-    company: "Amazon",
-    programme: "2026 Software Dev Engineer Intern",
-    openingDate: "03 Sep 25",
-    applyUrl: "https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
-  },
-  {
-    company: "Palantir",
-    programme: "Software Engineer, Internship",
-    openingDate: "01 Aug 25",
-    applyUrl: "https://jobs.lever.co/palantir?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lever-source=Trackr&commitment=Internship&location=London%2C+United+Kingdom"
+    company: "Google",
+    programme: "Software Engineering Intern, 2026",
+    openingDate: "16 Sep 25",
+    applyUrl: "#"
   },
   {
     company: "TikTok",
@@ -39,28 +27,28 @@ const faangPlusCompanies = [
     applyUrl: "https://job-boards.greenhouse.io/perplexityai/jobs/4735785007"
   },
   {
-    company: "Revolut",
-    programme: "Rev-celerator Internship Programme 2026",
-    openingDate: "15 Jun 25",
-    applyUrl: "https://www.revolut.com/careers/?text=rev-celerator+internship+programme&team=Engineering&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
-  },
-  {
     company: "Figma",
     programme: "Software Engineer Intern",
     openingDate: "09 Sep 25",
     applyUrl: "https://job-boards.greenhouse.io/figma/jobs/5621177004?gh_jid=5621177004&gh_src=28109e334us&source=LinkedIn"
   },
   {
-    company: "Citadel",
-    programme: "Software Engineer - Intern (Europe)",
-    openingDate: "12 Aug 25",
-    applyUrl: "https://www.citadel.com/careers/details/software-engineer-intern-europe/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+    company: "Meta",
+    programme: "Security Engineer Intern",
+    openingDate: "05 Sep 25",
+    applyUrl: "https://www.metacareers.com/jobs/770613715578381?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
-    company: "Jane Street",
-    programme: "Software Engineer Internship",
-    openingDate: "04 Aug 25",
-    applyUrl: "https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=london&department=technology&duration=june-september&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+    company: "Microsoft",
+    programme: "Software Engineer Internship Opportunities",
+    openingDate: "04 Sep 25",
+    applyUrl: "https://jobs.careers.microsoft.com/global/en/share/1871538/?utm_source=Trackr&utm_campaign=UK_Technology_2026&utm_medium=tracker"
+  },
+  {
+    company: "Amazon",
+    programme: "2026 Software Dev Engineer Intern",
+    openingDate: "03 Sep 25",
+    applyUrl: "https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Optiver",
@@ -69,20 +57,140 @@ const faangPlusCompanies = [
     applyUrl: "https://optiver.com/working-at-optiver/career-opportunities/?numberposts=10&paged=1&department=technology&level=internship&office=amsterdam&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
+    company: "Citadel",
+    programme: "Software Engineer - Intern (Europe)",
+    openingDate: "12 Aug 25",
+    applyUrl: "https://www.citadel.com/careers/details/software-engineer-intern-europe/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
     company: "BNP Paribas",
     programme: "2026 Summer Internship - Technology",
     openingDate: "12 Aug 25",
     applyUrl: "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=60554&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"
   },
   {
+    company: "Jane Street",
+    programme: "Software Engineer Internship",
+    openingDate: "04 Aug 25",
+    applyUrl: "https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=london&department=technology&duration=june-september&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
     company: "Jump Trading",
     programme: "Campus Software Engineer (Intern)",
     openingDate: "02 Aug 25",
     applyUrl: "https://www.jumptrading.com/careers/6946008/?gh_jid=6946008&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"
+  },
+  {
+    company: "Palantir",
+    programme: "Software Engineer, Internship",
+    openingDate: "01 Aug 25",
+    applyUrl: "https://jobs.lever.co/palantir?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lever-source=Trackr&commitment=Internship&location=London%2C+United+Kingdom"
+  },
+  {
+    company: "Revolut",
+    programme: "Rev-celerator Internship Programme 2026",
+    openingDate: "15 Jun 25",
+    applyUrl: "https://www.revolut.com/careers/?text=rev-celerator+internship+programme&team=Engineering&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   }
 ];
 
 const internships = [
+  {
+    company: "Meta",
+    programme: "Software Engineer Intern",
+    openingDate: "17 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Google",
+    programme: "Software Engineering Intern, 2026",
+    openingDate: "16 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Epic Games",
+    programme: "Gameplay Programmer Intern",
+    openingDate: "27 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Blackstone",
+    programme: "2026 Software Developer Summer Analyst",
+    openingDate: "26 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "MathWorks",
+    programme: "Software Development Internship",
+    openingDate: "26 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Fleek",
+    programme: "Software Engineering Intern (London-based)",
+    openingDate: "26 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "ITP",
+    programme: "Consultant Software Engineer Summer Internship",
+    openingDate: "26 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Qube RT",
+    programme: "2026 Internship - Software Engineering",
+    openingDate: "25 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Symphony",
+    programme: "Intern, Software Development",
+    openingDate: "25 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "MBDA",
+    programme: "Software Engineering - Summer Placement 2026",
+    openingDate: "25 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "NatWest Markets",
+    programme: "Engineering - Internship",
+    openingDate: "24 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Point72",
+    programme: "2026 Summer Internship – Data Engineer, Long/Short Equities",
+    openingDate: "24 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Tesco",
+    programme: "Technology Internship",
+    openingDate: "23 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "AMD",
+    programme: "Summer 2026 Software Engineer Intern",
+    openingDate: "23 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Deloitte",
+    programme: "Summer Vacation Scheme",
+    openingDate: "22 Sep 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Arm",
+    programme: "Software Intern",
+    openingDate: "22 Sep 25",
+    applyUrl: "#"
+  },
   {
     company: "Meta",
     programme: "Product Security Engineer Intern",
