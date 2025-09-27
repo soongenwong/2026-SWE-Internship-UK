@@ -737,7 +737,7 @@ export default function Home() {
                   </div>
                 </summary>
                 <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
-                  <p>Most companies start accepting applications between July and September 2025, with some opening as early as June. Apply as soon as applications open - many companies use rolling admissions and fill positions on a first-come, first-served basis. Don't wait until the last minute!</p>
+                  <p>Most companies start accepting applications between July and September 2025, with some opening as early as June. Apply as soon as applications open - many companies use rolling admissions and fill positions on a first-come, first-served basis. Don&apos;t wait until the last minute!</p>
                 </div>
               </details>
 
@@ -760,7 +760,7 @@ export default function Home() {
                     <li>Coursework and academic projects</li>
                     <li>Open source contributions</li>
                     <li>Hackathon participation</li>
-                    <li>Any coding bootcamps or online courses you've completed</li>
+                    <li>Any coding bootcamps or online courses you&apos;ve completed</li>
                   </ul>
                 </div>
               </details>
@@ -899,7 +899,7 @@ export default function Home() {
                 <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
                   <div className="flex items-center justify-between">
                     <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
-                      What's the difference between spring, summer, and autumn internships?
+                      What&apos;s the difference between spring, summer, and autumn internships?
                     </h3>
                     <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
@@ -953,7 +953,7 @@ export default function Home() {
                 <summary className="p-6 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
                   <div className="flex items-center justify-between">
                     <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
-                      What if I don't get an internship for summer 2026?
+                      What if I don&apos;t get an internship for summer 2026?
                     </h3>
                     <svg className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
@@ -961,7 +961,7 @@ export default function Home() {
                   </div>
                 </summary>
                 <div className="px-6 pb-6 text-gray-700 dark:text-gray-300">
-                  <p className="mb-3">Don't panic! Here are alternatives:</p>
+                  <p className="mb-3">Don&apos;t panic! Here are alternatives:</p>
                   <ul className="list-disc list-inside space-y-1 mb-3">
                     <li><strong>Keep applying</strong> - some companies have later deadlines or reopen applications</li>
                     <li><strong>Consider smaller companies</strong> that may still be hiring</li>
