@@ -96,6 +96,30 @@ const faangPlusCompanies = [
 
 const internships = [
   {
+    company: "StoneX",
+    programme: "Intern - Developer (Front Office Metals)",
+    openingDate: "02 Oct 25",
+    applyUrl: "https://uk-stonex.icims.com/jobs/13894/intern---developer-%28front-office-metals-%29/job?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&iis=Trackr"
+  },
+  {
+    company: "SLB",
+    programme: "Software Engineer Intern (3 months)",
+    openingDate: "02 Oct 25",
+    applyUrl: "https://careers.slb.com/job-listing?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
+    company: "Autodesk",
+    programme: "Intern, Software Engineer",
+    openingDate: "30 Sep 25",
+    applyUrl: "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/jobs?src=Trackr&locationCountry=29247e57dbaf46fb855b224e03170bc7&workerSubType=39f5af07b0c54bc588b1a47788da7f81&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"
+  },
+  {
+    company: "Arbuthnot Latham",
+    programme: "Internship 2026 - IT Service Delivery",
+    openingDate: "29 Sep 25",
+    applyUrl: "https://careers.arbuthnotlatham.co.uk/vacancies/2475/internship-2026--it-service-delivery.html?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
     company: "Epic Games",
     programme: "Gameplay Programmer Intern",
     openingDate: "27 Sep 25",
