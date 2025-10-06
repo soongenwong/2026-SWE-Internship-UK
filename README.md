@@ -1,4 +1,4 @@
-# 2026 Software Engineering Internships UK 🚀
+# Software Engineering and Tech Internships UK 2026 🚀
 
 <div align="center">
 
