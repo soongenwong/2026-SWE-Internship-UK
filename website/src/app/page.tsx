@@ -99,91 +99,91 @@ const internships = [
     company: "Tradeweb",
     programme: "Summer Internship Program 2026",
     openingDate: "13 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs?keyword=%22summer+internship+program+2026%22&mode=location&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&iis=Trackr&sType=Trackr"
   },
   {
     company: "Gearset",
     programme: "Software Engineering Intern 2026",
     openingDate: "13 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://jobs.lever.co/gearset/?commitment=Internship&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lever-source=Trackr"
   },
   {
     company: "PA Consulting",
     programme: "2026 Summer Internship - Software & Controls Engineer",
     openingDate: "13 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://jobs.smartrecruiters.com/PAConsulting/744000087636255-2026-summer-internship-software-controls-engineer-cambridge-?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&trid=Trackr&dcr_ci=Trackr"
   },
   {
     company: "Centrica",
     programme: "Technology Summer Internship",
     openingDate: "10 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://centrica.wd3.myworkdayjobs.com/Centrica/job/Windsor/DTS-Summer-Internship_R0078047-1?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"
   },
   {
     company: "Apple",
     programme: "Internship",
     openingDate: "10 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://jobs.apple.com/en-gb/search?location=united-kingdom-GBR&key=internship&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
-    company: "CommerceIQ",
+    company: "CommonAI CIC",
     programme: "Software Engineer (Summer 2026 Internship)",
     openingDate: "10 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://www.linkedin.com/jobs/view/4313209422?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Financial Conduct Authority",
     programme: "2026 Technology Summer Internship",
     openingDate: "08 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://fca.wd3.myworkdayjobs.com/en-US/FCA_earlycareers/jobs?q=%27data%2C+digital%27&jobFamily=12d036035e131001aaafffc882ac0000&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"
   },
   {
     company: "Rothesay",
     programme: "Internship - Software Engineering",
     openingDate: "08 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8200814002?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"
   },
   {
     company: "Hudson River Trading",
     programme: "Software Engineering Internship - Summer 2026",
     openingDate: "08 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://www.hudsonrivertrading.com/careers/?locations=ldn%2C&job-type=internship%2C&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Schonfeld",
     programme: "2026 Software Engineer Summer Internship",
     openingDate: "08 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://job-boards.greenhouse.io/schonfeld/jobs/7308371?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"
   },
   {
     company: "Rolls-Royce",
     programme: "Engineering and Technology Summer Internship",
     openingDate: "07 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Derby/Rolls-Royce-Engineering-and-Technology-Summer-Internship---UK_JR6144467?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"
   },
   {
     company: "Deutsche Bank",
     programme: "Internship Programme - Technology, Data & Innovation",
     openingDate: "06 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://db.recsolu.com/external/requisitions/u0Hg2cz-hLxgFhi35Rc8Ng?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
   },
   {
     company: "Arch Insurance International",
     programme: "IT Summer Internship - 2026",
     openingDate: "06 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/jobs?q=%27summer+internship%27&locationCountry=29247e57dbaf46fb855b224e03170bc7&workerSubType=2c14c19200e101019813042e39800000&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"
   },
   {
     company: "Ashton Fire",
     programme: "Intern Software Engineer (Summer 2026)",
     openingDate: "06 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://ashtonfire.bamboohr.com/careers/52?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"
   },
   {
     company: "NCR Atleos",
     programme: "Software Internship - Summer 2026 (12 Weeks)",
     openingDate: "06 Oct 25",
-    applyUrl: "#"
+    applyUrl: "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_non_usalteos/details/Software-Internship---Summer-2026--12-Weeks-_R1150348?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr&q=%27internship%27&Location_Country=29247e57dbaf46fb855b224e03170bc7&workerSubType=7faba66820ac107220437a0217412090"
   },
   {
     company: "StoneX",
