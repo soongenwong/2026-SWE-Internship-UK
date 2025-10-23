@@ -96,6 +96,96 @@ const faangPlusCompanies = [
 
 const internships = [
   {
+    company: "Tradeweb",
+    programme: "Summer Internship Program 2026",
+    openingDate: "13 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Gearset",
+    programme: "Software Engineering Intern 2026",
+    openingDate: "13 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "PA Consulting",
+    programme: "2026 Summer Internship - Software & Controls Engineer",
+    openingDate: "13 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Centrica",
+    programme: "Technology Summer Internship",
+    openingDate: "10 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Apple",
+    programme: "Internship",
+    openingDate: "10 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "CommerceIQ",
+    programme: "Software Engineer (Summer 2026 Internship)",
+    openingDate: "10 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Financial Conduct Authority",
+    programme: "2026 Technology Summer Internship",
+    openingDate: "08 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Rothesay",
+    programme: "Internship - Software Engineering",
+    openingDate: "08 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Hudson River Trading",
+    programme: "Software Engineering Internship - Summer 2026",
+    openingDate: "08 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Schonfeld",
+    programme: "2026 Software Engineer Summer Internship",
+    openingDate: "08 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Rolls-Royce",
+    programme: "Engineering and Technology Summer Internship",
+    openingDate: "07 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Deutsche Bank",
+    programme: "Internship Programme - Technology, Data & Innovation",
+    openingDate: "06 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Arch Insurance International",
+    programme: "IT Summer Internship - 2026",
+    openingDate: "06 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Ashton Fire",
+    programme: "Intern Software Engineer (Summer 2026)",
+    openingDate: "06 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "NCR Atleos",
+    programme: "Software Internship - Summer 2026 (12 Weeks)",
+    openingDate: "06 Oct 25",
+    applyUrl: "#"
+  },
+  {
     company: "StoneX",
     programme: "Intern - Developer (Front Office Metals)",
     openingDate: "02 Oct 25",
