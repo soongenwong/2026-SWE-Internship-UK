@@ -10,7 +10,7 @@
 
 ## 🎯 About
 
-Your comprehensive guide to **Software Engineering Internships** and **Placements* for 2026. Updated daily with new opportunities!
+Your comprehensive guide to **Software Engineering Internships** and **Placements** for 2026. Updated daily with new opportunities!
 
 ## 🌟 Features
 
