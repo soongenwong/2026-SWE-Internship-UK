@@ -1,4 +1,4 @@
-# Software Engineering and Tech Internships UK 2026 🚀
+# Software Engineering and Tech Internships 2026 🚀
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ## 🎯 About
 
-Your comprehensive guide to **Software Engineering Internships** and **Placements** in the UK for 2026. Updated daily with new opportunities!
+Your comprehensive guide to **Software Engineering Internships** and **Placements* for 2026. Updated daily with new opportunities!
 
 ## 🌟 Features
 
