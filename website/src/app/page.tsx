@@ -3,6 +3,24 @@ import Link from "next/link";
 // FAANG+ Companies - Premium tech companies
 const faangPlusCompanies = [
   {
+    company: "Stripe",
+    programme: "Software Engineer, Intern",
+    openingDate: "11 Nov 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Coinbase",
+    programme: "Software Engineer Intern",
+    openingDate: "07 Nov 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Apple",
+    programme: "Internship",
+    openingDate: "10 Oct 25",
+    applyUrl: "https://jobs.apple.com/en-gb/search?location=united-kingdom-GBR&key=internship&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"
+  },
+  {
     company: "Meta",
     programme: "Software Engineer Intern",
     openingDate: "17 Sep 25",
@@ -95,6 +113,180 @@ const faangPlusCompanies = [
 ];
 
 const internships = [
+  {
+    company: "Stripe",
+    programme: "Software Engineer, Intern",
+    openingDate: "11 Nov 25",
+    applyUrl: "#"
+  },
+  {
+    company: "SPAICE",
+    programme: "Computer Vision Engineer Intern",
+    openingDate: "11 Nov 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Coinbase",
+    programme: "Software Engineer Intern",
+    openingDate: "07 Nov 25",
+    applyUrl: "#"
+  },
+  {
+    company: "CITIC CLSA",
+    programme: "2026 CLSA Internship - Information Technology",
+    openingDate: "06 Nov 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Helsing",
+    programme: "Software Engineer - Intern",
+    openingDate: "06 Nov 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Onestream",
+    programme: "Summer Intern",
+    openingDate: "06 Nov 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Crédit Agricole",
+    programme: "Summer Internship Programme 2026 - IT",
+    openingDate: "03 Nov 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Rokos Capital Management",
+    programme: "RCM Internship Programme 2026",
+    openingDate: "01 Nov 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Certara",
+    programme: "Junior Software Developer (Student Intern)",
+    openingDate: "30 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "L.E.K. Consulting",
+    programme: "2026 Data & Analytics Summer Internship",
+    openingDate: "30 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Wise",
+    programme: "Software Engineering Intern 2026",
+    openingDate: "28 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Capgemini",
+    programme: "Internship Consulting or Technical routes 2026",
+    openingDate: "28 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Nordic Semiconductor",
+    programme: "UK Internships & Placements 2026 - Wi-Fi",
+    openingDate: "28 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Samsara",
+    programme: "Software Engineering Intern",
+    openingDate: "28 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "BGC Group",
+    programme: "2026 Technology Summer Internship Programme",
+    openingDate: "27 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "FTI Consulting",
+    programme: "2026 Summer Internship",
+    openingDate: "27 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "RBC Capital Markets",
+    programme: "2026 Summer Analyst - Developer / Data Analyst",
+    openingDate: "23 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Amazon",
+    programme: "2026 Software Dev Engineer Intern",
+    openingDate: "22 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Mako Trading",
+    programme: "Summer Internship - Trading & Technology",
+    openingDate: "22 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Redgate",
+    programme: "Software Engineer Internship 2026",
+    openingDate: "21 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "PGIM",
+    programme: "Technology Internship Program",
+    openingDate: "21 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Leonardo",
+    programme: "Summer Placement Software Engineer",
+    openingDate: "20 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Nutanix",
+    programme: "Software Engineer Intern",
+    openingDate: "20 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Pexip",
+    programme: "Software Engineer Interns - Internship Summer 2026",
+    openingDate: "20 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Qualcomm",
+    programme: "FY26 Intern - Software Engineer",
+    openingDate: "20 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Cloudflare",
+    programme: "Software Engineer Intern (Summer 2026)",
+    openingDate: "17 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Perplexity",
+    programme: "UK Internship Program",
+    openingDate: "17 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Visa",
+    programme: "Software Engineer Intern",
+    openingDate: "17 Oct 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Man Group",
+    programme: "2026 Summer Technology Internship Programme",
+    openingDate: "16 Oct 25",
+    applyUrl: "#"
+  },
   {
     company: "Tradeweb",
     programme: "Summer Internship Program 2026",
