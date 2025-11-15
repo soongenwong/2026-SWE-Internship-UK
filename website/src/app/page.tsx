@@ -114,6 +114,18 @@ const faangPlusCompanies = [
 
 const internships = [
   {
+    company: "Aspect Capital",
+    programme: "Quantitative Research Intern - Execution Research",
+    openingDate: "13 Nov 25",
+    applyUrl: "#"
+  },
+  {
+    company: "Citi",
+    programme: "2026, Technology Summer Analyst",
+    openingDate: "12 Nov 25",
+    applyUrl: "#"
+  },
+  {
     company: "Stripe",
     programme: "Software Engineer, Intern",
     openingDate: "11 Nov 25",

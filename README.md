@@ -56,6 +56,8 @@ Your comprehensive guide to **Software Engineering Internships** and **Placement
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
+| **Aspect Capital** | Quantitative Research Intern - Execution Research | 13 Nov 25 | <a href="https://aspectcapital-42aeea.careers.hibob.com/jobs/1df25980-3ccc-4464-8bd9-bd5328561cee"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Citi** | 2026, Technology Summer Analyst | 12 Nov 25 | <a href="https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Summer-Analyst--London--2026_25920474?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Stripe** | Software Engineer, Intern | 11 Nov 25 | <a href="https://stripe.com/jobs/listing/software-engineer-intern/7360840?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **SPAICE** | Computer Vision Engineer Intern | 11 Nov 25 | <a href="https://jobs.ashbyhq.com/spaice-tech/e3f67cc8-c383-478a-89dc-bd535605cd9b?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Coinbase** | Software Engineer Intern | 07 Nov 25 | <a href="https://www.coinbase.com/en-gb/careers/positions/7370475?gh_jid=7370475&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
